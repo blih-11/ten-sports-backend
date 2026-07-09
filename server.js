@@ -14,11 +14,32 @@ connectDB();
 
 const app = express();
 
+// Render (and most hosts) sit the app behind a reverse proxy. Without this,
+// Express can't read the real client IP from X-Forwarded-For, so
+// express-rate-limit ends up treating every visitor as the same IP and
+// shares one rate-limit bucket across all traffic -- causing 429s for
+// everyone much sooner than intended.
+app.set('trust proxy', 1);
+
 // Rate limiting
+// Generous limiter for general API reads (dashboard pages fire several
+// GET requests per load, so this needs headroom for legitimate traffic).
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 100,
+  max: 300,
+  standardHeaders: true,
+  legacyHeaders: false,
   message: 'Too many requests from this IP, please try again later.'
+});
+
+// Tighter limiter specifically for auth endpoints (login/register), where
+// we actually want to slow down repeated attempts.
+const authLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  max: 20,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: 'Too many login attempts from this IP, please try again later.'
 });
 
 // CORS
@@ -47,6 +68,7 @@ app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true }));
 app.use(morgan('dev'));
 app.use('/api/', limiter);
+app.use('/api/auth', authLimiter);
 
 // ── Routes ────────────────────────────────────────────────────────────────────
 app.use('/api/auth',      require('./routes/auth'));
