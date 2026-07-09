@@ -1,0 +1,553 @@
+date,time,home,away,round
+2026-08-14,20:00,Wolverhampton Wanderers,Blackburn Rovers,Round 1
+2026-08-15,12:30,Bolton Wanderers,Preston North End,Round 1
+2026-08-15,15:00,Bristol City,Millwall,Round 1
+2026-08-15,15:00,Charlton Athletic,Derby County,Round 1
+2026-08-15,15:00,Middlesbrough,Lincoln City,Round 1
+2026-08-15,15:00,Norwich City,West Bromwich Albion,Round 1
+2026-08-15,15:00,Portsmouth,Queens Park Rangers,Round 1
+2026-08-15,17:30,Sheffield United,Birmingham City,Round 1
+2026-08-15,15:00,Stoke City,Swansea City,Round 1
+2026-08-16,16:00,Burnley,West Ham United,Round 1
+2026-08-16,13:30,Watford,Southampton,Round 1
+2026-08-17,20:00,Cardiff City,Wrexham,Round 1
+2026-08-22,15:00,Birmingham City,Bristol City,Round 2
+2026-08-22,15:00,Blackburn Rovers,Middlesbrough,Round 2
+2026-08-22,15:00,Derby County,Cardiff City,Round 2
+2026-08-22,15:00,Lincoln City,Portsmouth,Round 2
+2026-08-22,15:00,Millwall,Norwich City,Round 2
+2026-08-22,15:00,Preston North End,Wolverhampton Wanderers,Round 2
+2026-08-22,15:00,Queens Park Rangers,Bolton Wanderers,Round 2
+2026-08-22,15:00,Southampton,Stoke City,Round 2
+2026-08-22,15:00,Swansea City,Sheffield United,Round 2
+2026-08-22,15:00,West Bromwich Albion,Burnley,Round 2
+2026-08-22,15:00,West Ham United,Charlton Athletic,Round 2
+2026-08-22,15:00,Wrexham,Watford,Round 2
+2026-08-29,15:00,Blackburn Rovers,Queens Park Rangers,Round 3
+2026-08-29,15:00,Bolton Wanderers,Lincoln City,Round 3
+2026-08-29,15:00,Bristol City,Portsmouth,Round 3
+2026-08-29,15:00,Cardiff City,Sheffield United,Round 3
+2026-08-29,15:00,Charlton Athletic,Preston North End,Round 3
+2026-08-29,15:00,Derby County,Swansea City,Round 3
+2026-08-29,15:00,Middlesbrough,West Bromwich Albion,Round 3
+2026-08-29,15:00,Norwich City,Burnley,Round 3
+2026-08-29,15:00,Southampton,Millwall,Round 3
+2026-08-29,15:00,Watford,West Ham United,Round 3
+2026-08-29,15:00,Wolverhampton Wanderers,Stoke City,Round 3
+2026-08-29,15:00,Wrexham,Birmingham City,Round 3
+2026-09-01,19:45,Birmingham City,Southampton,Round 4
+2026-09-01,19:45,Lincoln City,Blackburn Rovers,Round 4
+2026-09-01,19:45,Portsmouth,Derby County,Round 4
+2026-09-01,19:45,Preston North End,Bristol City,Round 4
+2026-09-01,19:45,Sheffield United,Bolton Wanderers,Round 4
+2026-09-01,19:45,Stoke City,Norwich City,Round 4
+2026-09-01,19:45,Swansea City,Watford,Round 4
+2026-09-01,19:45,West Ham United,Wolverhampton Wanderers,Round 4
+2026-09-02,19:45,Burnley,Middlesbrough,Round 4
+2026-09-02,19:45,Millwall,Wrexham,Round 4
+2026-09-02,19:45,Queens Park Rangers,Cardiff City,Round 4
+2026-09-02,19:45,West Bromwich Albion,Charlton Athletic,Round 4
+2026-09-05,15:00,Birmingham City,Wolverhampton Wanderers,Round 5
+2026-09-05,15:00,Burnley,Bristol City,Round 5
+2026-09-05,15:00,Lincoln City,Southampton,Round 5
+2026-09-05,15:00,Millwall,Bolton Wanderers,Round 5
+2026-09-05,15:00,Portsmouth,Cardiff City,Round 5
+2026-09-05,15:00,Preston North End,Blackburn Rovers,Round 5
+2026-09-05,15:00,Queens Park Rangers,Middlesbrough,Round 5
+2026-09-05,15:00,Sheffield United,Norwich City,Round 5
+2026-09-05,15:00,Stoke City,Charlton Athletic,Round 5
+2026-09-05,15:00,Swansea City,Wrexham,Round 5
+2026-09-05,15:00,West Bromwich Albion,Watford,Round 5
+2026-09-05,15:00,West Ham United,Derby County,Round 5
+2026-09-08,19:45,Blackburn Rovers,Sheffield United,Round 6
+2026-09-08,19:45,Bolton Wanderers,West Ham United,Round 6
+2026-09-08,19:45,Bristol City,Lincoln City,Round 6
+2026-09-08,19:45,Cardiff City,Stoke City,Round 6
+2026-09-08,19:45,Middlesbrough,Millwall,Round 6
+2026-09-08,19:45,Southampton,Swansea City,Round 6
+2026-09-08,19:45,Watford,Preston North End,Round 6
+2026-09-08,19:45,Wolverhampton Wanderers,Portsmouth,Round 6
+2026-09-09,19:45,Charlton Athletic,Queens Park Rangers,Round 6
+2026-09-09,19:45,Derby County,West Bromwich Albion,Round 6
+2026-09-09,19:45,Norwich City,Birmingham City,Round 6
+2026-09-09,19:45,Wrexham,Burnley,Round 6
+2026-09-12,15:00,Blackburn Rovers,Millwall,Round 7
+2026-09-12,15:00,Bolton Wanderers,Cardiff City,Round 7
+2026-09-12,15:00,Charlton Athletic,Portsmouth,Round 7
+2026-09-12,15:00,Derby County,Birmingham City,Round 7
+2026-09-12,15:00,Middlesbrough,Norwich City,Round 7
+2026-09-12,15:00,Preston North End,Lincoln City,Round 7
+2026-09-12,15:00,Sheffield United,Wolverhampton Wanderers,Round 7
+2026-09-12,15:00,Southampton,Bristol City,Round 7
+2026-09-12,15:00,Swansea City,Burnley,Round 7
+2026-09-12,15:00,Watford,Stoke City,Round 7
+2026-09-12,15:00,West Bromwich Albion,Queens Park Rangers,Round 7
+2026-09-12,15:00,West Ham United,Wrexham,Round 7
+2026-09-19,15:00,Birmingham City,Middlesbrough,Round 8
+2026-09-19,15:00,Bristol City,Watford,Round 8
+2026-09-19,15:00,Burnley,Derby County,Round 8
+2026-09-19,15:00,Cardiff City,Charlton Athletic,Round 8
+2026-09-19,15:00,Lincoln City,Swansea City,Round 8
+2026-09-19,15:00,Millwall,West Ham United,Round 8
+2026-09-19,15:00,Norwich City,Bolton Wanderers,Round 8
+2026-09-19,15:00,Portsmouth,Blackburn Rovers,Round 8
+2026-09-19,15:00,Queens Park Rangers,Preston North End,Round 8
+2026-09-19,15:00,Stoke City,Sheffield United,Round 8
+2026-09-19,15:00,Wolverhampton Wanderers,West Bromwich Albion,Round 8
+2026-09-19,15:00,Wrexham,Southampton,Round 8
+2026-10-10,15:00,Blackburn Rovers,Cardiff City,Round 9
+2026-10-10,15:00,Bolton Wanderers,Stoke City,Round 9
+2026-10-10,15:00,Charlton Athletic,Bristol City,Round 9
+2026-10-10,15:00,Derby County,Wrexham,Round 9
+2026-10-10,15:00,Middlesbrough,Wolverhampton Wanderers,Round 9
+2026-10-10,15:00,Preston North End,Millwall,Round 9
+2026-10-10,15:00,Sheffield United,Lincoln City,Round 9
+2026-10-10,15:00,Southampton,Portsmouth,Round 9
+2026-10-10,15:00,Swansea City,Norwich City,Round 9
+2026-10-10,15:00,Watford,Burnley,Round 9
+2026-10-10,15:00,West Bromwich Albion,Birmingham City,Round 9
+2026-10-10,15:00,West Ham United,Queens Park Rangers,Round 9
+2026-10-13,19:45,Birmingham City,Preston North End,Round 10
+2026-10-13,19:45,Bristol City,Blackburn Rovers,Round 10
+2026-10-13,19:45,Burnley,Charlton Athletic,Round 10
+2026-10-13,19:45,Cardiff City,Watford,Round 10
+2026-10-13,19:45,Millwall,Swansea City,Round 10
+2026-10-13,19:45,Stoke City,Middlesbrough,Round 10
+2026-10-13,19:45,Wolverhampton Wanderers,Bolton Wanderers,Round 10
+2026-10-13,19:45,Wrexham,West Bromwich Albion,Round 10
+2026-10-14,19:45,Lincoln City,West Ham United,Round 10
+2026-10-14,19:45,Norwich City,Southampton,Round 10
+2026-10-14,19:45,Portsmouth,Sheffield United,Round 10
+2026-10-14,19:45,Queens Park Rangers,Derby County,Round 10
+2026-10-17,15:00,Birmingham City,Queens Park Rangers,Round 11
+2026-10-17,15:00,Bristol City,Sheffield United,Round 11
+2026-10-17,15:00,Burnley,Wolverhampton Wanderers,Round 11
+2026-10-17,15:00,Derby County,Stoke City,Round 11
+2026-10-17,15:00,Middlesbrough,Cardiff City,Round 11
+2026-10-17,15:00,Millwall,Lincoln City,Round 11
+2026-10-17,15:00,Norwich City,Portsmouth,Round 11
+2026-10-17,15:00,Southampton,Bolton Wanderers,Round 11
+2026-10-17,15:00,Swansea City,West Ham United,Round 11
+2026-10-17,15:00,Watford,Charlton Athletic,Round 11
+2026-10-17,15:00,West Bromwich Albion,Blackburn Rovers,Round 11
+2026-10-17,15:00,Wrexham,Preston North End,Round 11
+2026-10-24,15:00,Blackburn Rovers,Wrexham,Round 12
+2026-10-24,15:00,Bolton Wanderers,Middlesbrough,Round 12
+2026-10-24,15:00,Cardiff City,Birmingham City,Round 12
+2026-10-24,15:00,Charlton Athletic,Norwich City,Round 12
+2026-10-24,15:00,Lincoln City,Burnley,Round 12
+2026-10-24,15:00,Portsmouth,Millwall,Round 12
+2026-10-24,15:00,Preston North End,West Bromwich Albion,Round 12
+2026-10-24,15:00,Queens Park Rangers,Swansea City,Round 12
+2026-10-24,15:00,Sheffield United,Derby County,Round 12
+2026-10-24,15:00,Stoke City,Bristol City,Round 12
+2026-10-24,15:00,West Ham United,Southampton,Round 12
+2026-10-24,15:00,Wolverhampton Wanderers,Watford,Round 12
+2026-10-31,15:00,Bolton Wanderers,Bristol City,Round 13
+2026-10-31,15:00,Burnley,Portsmouth,Round 13
+2026-10-31,15:00,Lincoln City,Birmingham City,Round 13
+2026-10-31,15:00,Middlesbrough,Charlton Athletic,Round 13
+2026-10-31,15:00,Millwall,Derby County,Round 13
+2026-10-31,15:00,Norwich City,Watford,Round 13
+2026-10-31,15:00,Sheffield United,Wrexham,Round 13
+2026-10-31,15:00,Southampton,Queens Park Rangers,Round 13
+2026-10-31,15:00,Stoke City,Preston North End,Round 13
+2026-10-31,15:00,Swansea City,Blackburn Rovers,Round 13
+2026-10-31,15:00,West Ham United,West Bromwich Albion,Round 13
+2026-10-31,15:00,Wolverhampton Wanderers,Cardiff City,Round 13
+2026-11-03,19:45,Birmingham City,Millwall,Round 14
+2026-11-03,19:45,Blackburn Rovers,Stoke City,Round 14
+2026-11-03,19:45,Derby County,Norwich City,Round 14
+2026-11-03,19:45,Portsmouth,Swansea City,Round 14
+2026-11-03,19:45,Preston North End,Sheffield United,Round 14
+2026-11-03,19:45,Queens Park Rangers,Burnley,Round 14
+2026-11-03,19:45,Watford,Lincoln City,Round 14
+2026-11-03,19:45,West Bromwich Albion,Southampton,Round 14
+2026-11-04,19:45,Bristol City,Wolverhampton Wanderers,Round 14
+2026-11-04,19:45,Cardiff City,West Ham United,Round 14
+2026-11-04,19:45,Charlton Athletic,Bolton Wanderers,Round 14
+2026-11-04,19:45,Wrexham,Middlesbrough,Round 14
+2026-11-07,15:00,Birmingham City,Swansea City,Round 15
+2026-11-07,15:00,Blackburn Rovers,West Ham United,Round 15
+2026-11-07,15:00,Bristol City,Norwich City,Round 15
+2026-11-07,15:00,Cardiff City,Burnley,Round 15
+2026-11-07,15:00,Charlton Athletic,Sheffield United,Round 15
+2026-11-07,15:00,Derby County,Bolton Wanderers,Round 15
+2026-11-07,15:00,Portsmouth,Stoke City,Round 15
+2026-11-07,15:00,Preston North End,Southampton,Round 15
+2026-11-07,15:00,Queens Park Rangers,Lincoln City,Round 15
+2026-11-07,15:00,Watford,Middlesbrough,Round 15
+2026-11-07,15:00,West Bromwich Albion,Millwall,Round 15
+2026-11-07,15:00,Wrexham,Wolverhampton Wanderers,Round 15
+2026-11-21,15:00,Bolton Wanderers,Portsmouth,Round 16
+2026-11-21,15:00,Burnley,Blackburn Rovers,Round 16
+2026-11-21,15:00,Lincoln City,Wrexham,Round 16
+2026-11-21,15:00,Middlesbrough,Bristol City,Round 16
+2026-11-21,15:00,Millwall,Queens Park Rangers,Round 16
+2026-11-21,15:00,Norwich City,Cardiff City,Round 16
+2026-11-21,15:00,Sheffield United,Watford,Round 16
+2026-11-21,15:00,Southampton,Derby County,Round 16
+2026-11-21,15:00,Stoke City,Birmingham City,Round 16
+2026-11-21,15:00,Swansea City,West Bromwich Albion,Round 16
+2026-11-21,15:00,West Ham United,Preston North End,Round 16
+2026-11-21,15:00,Wolverhampton Wanderers,Charlton Athletic,Round 16
+2026-11-24,19:45,Bristol City,Wrexham,Round 17
+2026-11-24,19:45,Cardiff City,Preston North End,Round 17
+2026-11-24,19:45,Charlton Athletic,Lincoln City,Round 17
+2026-11-24,19:45,Middlesbrough,Swansea City,Round 17
+2026-11-24,19:45,Norwich City,Queens Park Rangers,Round 17
+2026-11-24,19:45,Portsmouth,West Ham United,Round 17
+2026-11-24,19:45,Sheffield United,Southampton,Round 17
+2026-11-24,19:45,Wolverhampton Wanderers,Derby County,Round 17
+2026-11-25,19:45,Bolton Wanderers,West Bromwich Albion,Round 17
+2026-11-25,19:45,Burnley,Birmingham City,Round 17
+2026-11-25,19:45,Stoke City,Millwall,Round 17
+2026-11-25,19:45,Watford,Blackburn Rovers,Round 17
+2026-11-28,15:00,Birmingham City,Bolton Wanderers,Round 18
+2026-11-28,15:00,Blackburn Rovers,Charlton Athletic,Round 18
+2026-11-28,15:00,Derby County,Watford,Round 18
+2026-11-28,15:00,Lincoln City,Wolverhampton Wanderers,Round 18
+2026-11-28,15:00,Millwall,Burnley,Round 18
+2026-11-28,15:00,Preston North End,Norwich City,Round 18
+2026-11-28,15:00,Queens Park Rangers,Sheffield United,Round 18
+2026-11-28,15:00,Southampton,Middlesbrough,Round 18
+2026-11-28,15:00,Swansea City,Cardiff City,Round 18
+2026-11-28,15:00,West Bromwich Albion,Bristol City,Round 18
+2026-11-28,15:00,West Ham United,Stoke City,Round 18
+2026-11-28,15:00,Wrexham,Portsmouth,Round 18
+2026-12-05,15:00,Bolton Wanderers,Blackburn Rovers,Round 19
+2026-12-05,15:00,Bristol City,Swansea City,Round 19
+2026-12-05,15:00,Burnley,Preston North End,Round 19
+2026-12-05,15:00,Cardiff City,Lincoln City,Round 19
+2026-12-05,15:00,Charlton Athletic,Birmingham City,Round 19
+2026-12-05,15:00,Middlesbrough,Derby County,Round 19
+2026-12-05,15:00,Norwich City,Wrexham,Round 19
+2026-12-05,15:00,Portsmouth,West Bromwich Albion,Round 19
+2026-12-05,15:00,Sheffield United,West Ham United,Round 19
+2026-12-05,15:00,Stoke City,Queens Park Rangers,Round 19
+2026-12-05,15:00,Watford,Millwall,Round 19
+2026-12-05,15:00,Wolverhampton Wanderers,Southampton,Round 19
+2026-12-08,19:45,Birmingham City,Watford,Round 20
+2026-12-08,19:45,Blackburn Rovers,Norwich City,Round 20
+2026-12-08,19:45,Millwall,Sheffield United,Round 20
+2026-12-08,19:45,Queens Park Rangers,Wolverhampton Wanderers,Round 20
+2026-12-08,19:45,Swansea City,Bolton Wanderers,Round 20
+2026-12-08,19:45,West Bromwich Albion,Cardiff City,Round 20
+2026-12-08,19:45,West Ham United,Middlesbrough,Round 20
+2026-12-08,19:45,Wrexham,Charlton Athletic,Round 20
+2026-12-09,19:45,Derby County,Bristol City,Round 20
+2026-12-09,19:45,Lincoln City,Stoke City,Round 20
+2026-12-09,19:45,Preston North End,Portsmouth,Round 20
+2026-12-09,19:45,Southampton,Burnley,Round 20
+2026-12-12,15:00,Blackburn Rovers,Derby County,Round 21
+2026-12-12,15:00,Bolton Wanderers,Wrexham,Round 21
+2026-12-12,15:00,Cardiff City,Southampton,Round 21
+2026-12-12,15:00,Charlton Athletic,Swansea City,Round 21
+2026-12-12,15:00,Lincoln City,Norwich City,Round 21
+2026-12-12,15:00,Portsmouth,Birmingham City,Round 21
+2026-12-12,15:00,Preston North End,Middlesbrough,Round 21
+2026-12-12,15:00,Queens Park Rangers,Watford,Round 21
+2026-12-12,15:00,Sheffield United,Burnley,Round 21
+2026-12-12,15:00,Stoke City,West Bromwich Albion,Round 21
+2026-12-12,15:00,West Ham United,Bristol City,Round 21
+2026-12-12,15:00,Wolverhampton Wanderers,Millwall,Round 21
+2026-12-19,15:00,Birmingham City,West Ham United,Round 22
+2026-12-19,15:00,Bristol City,Cardiff City,Round 22
+2026-12-19,15:00,Burnley,Stoke City,Round 22
+2026-12-19,15:00,Derby County,Lincoln City,Round 22
+2026-12-19,15:00,Middlesbrough,Portsmouth,Round 22
+2026-12-19,15:00,Millwall,Charlton Athletic,Round 22
+2026-12-19,15:00,Norwich City,Wolverhampton Wanderers,Round 22
+2026-12-19,15:00,Southampton,Blackburn Rovers,Round 22
+2026-12-19,15:00,Swansea City,Preston North End,Round 22
+2026-12-19,15:00,Watford,Bolton Wanderers,Round 22
+2026-12-19,15:00,West Bromwich Albion,Sheffield United,Round 22
+2026-12-19,15:00,Wrexham,Queens Park Rangers,Round 22
+2026-12-26,15:00,Blackburn Rovers,Birmingham City,Round 23
+2026-12-26,15:00,Bolton Wanderers,Burnley,Round 23
+2026-12-26,15:00,Cardiff City,Millwall,Round 23
+2026-12-26,15:00,Charlton Athletic,Southampton,Round 23
+2026-12-26,15:00,Lincoln City,West Bromwich Albion,Round 23
+2026-12-26,15:00,Portsmouth,Watford,Round 23
+2026-12-26,15:00,Preston North End,Derby County,Round 23
+2026-12-26,15:00,Queens Park Rangers,Bristol City,Round 23
+2026-12-26,15:00,Sheffield United,Middlesbrough,Round 23
+2026-12-26,15:00,Stoke City,Wrexham,Round 23
+2026-12-26,15:00,West Ham United,Norwich City,Round 23
+2026-12-26,15:00,Wolverhampton Wanderers,Swansea City,Round 23
+2026-12-29,19:45,Birmingham City,Cardiff City,Round 24
+2026-12-29,19:45,Bristol City,Stoke City,Round 24
+2026-12-29,19:45,Burnley,Lincoln City,Round 24
+2026-12-29,19:45,Derby County,Sheffield United,Round 24
+2026-12-29,19:45,Middlesbrough,Bolton Wanderers,Round 24
+2026-12-29,19:45,Millwall,Portsmouth,Round 24
+2026-12-29,19:45,Norwich City,Charlton Athletic,Round 24
+2026-12-29,19:45,Southampton,West Ham United,Round 24
+2026-12-29,19:45,Swansea City,Queens Park Rangers,Round 24
+2026-12-29,19:45,Watford,Wolverhampton Wanderers,Round 24
+2026-12-29,19:45,West Bromwich Albion,Preston North End,Round 24
+2026-12-29,19:45,Wrexham,Blackburn Rovers,Round 24
+2027-01-01,15:00,Birmingham City,Portsmouth,Round 25
+2027-01-01,15:00,Bristol City,West Ham United,Round 25
+2027-01-01,15:00,Burnley,Sheffield United,Round 25
+2027-01-01,15:00,Derby County,Blackburn Rovers,Round 25
+2027-01-01,15:00,Middlesbrough,Preston North End,Round 25
+2027-01-01,15:00,Millwall,Wolverhampton Wanderers,Round 25
+2027-01-01,15:00,Norwich City,Lincoln City,Round 25
+2027-01-01,15:00,Southampton,Cardiff City,Round 25
+2027-01-01,15:00,Swansea City,Charlton Athletic,Round 25
+2027-01-01,15:00,Watford,Queens Park Rangers,Round 25
+2027-01-01,15:00,West Bromwich Albion,Stoke City,Round 25
+2027-01-01,15:00,Wrexham,Bolton Wanderers,Round 25
+2027-01-16,15:00,Blackburn Rovers,West Bromwich Albion,Round 26
+2027-01-16,15:00,Bolton Wanderers,Southampton,Round 26
+2027-01-16,15:00,Cardiff City,Middlesbrough,Round 26
+2027-01-16,15:00,Charlton Athletic,Watford,Round 26
+2027-01-16,15:00,Lincoln City,Millwall,Round 26
+2027-01-16,15:00,Portsmouth,Norwich City,Round 26
+2027-01-16,15:00,Preston North End,Wrexham,Round 26
+2027-01-16,15:00,Queens Park Rangers,Birmingham City,Round 26
+2027-01-16,15:00,Sheffield United,Bristol City,Round 26
+2027-01-16,15:00,Stoke City,Derby County,Round 26
+2027-01-16,15:00,West Ham United,Swansea City,Round 26
+2027-01-16,15:00,Wolverhampton Wanderers,Burnley,Round 26
+2027-01-23,15:00,Birmingham City,Lincoln City,Round 27
+2027-01-23,15:00,Blackburn Rovers,Swansea City,Round 27
+2027-01-23,15:00,Bristol City,Bolton Wanderers,Round 27
+2027-01-23,15:00,Cardiff City,Wolverhampton Wanderers,Round 27
+2027-01-23,15:00,Charlton Athletic,Middlesbrough,Round 27
+2027-01-23,15:00,Derby County,Millwall,Round 27
+2027-01-23,15:00,Portsmouth,Burnley,Round 27
+2027-01-23,15:00,Preston North End,Stoke City,Round 27
+2027-01-23,15:00,Queens Park Rangers,Southampton,Round 27
+2027-01-23,15:00,Watford,Norwich City,Round 27
+2027-01-23,15:00,West Bromwich Albion,West Ham United,Round 27
+2027-01-23,15:00,Wrexham,Sheffield United,Round 27
+2027-01-26,19:45,Bolton Wanderers,Charlton Athletic,Round 28
+2027-01-26,19:45,Burnley,Queens Park Rangers,Round 28
+2027-01-26,19:45,Lincoln City,Watford,Round 28
+2027-01-26,19:45,Millwall,Birmingham City,Round 28
+2027-01-26,19:45,Norwich City,Derby County,Round 28
+2027-01-26,19:45,Sheffield United,Preston North End,Round 28
+2027-01-26,19:45,Southampton,West Bromwich Albion,Round 28
+2027-01-26,19:45,Stoke City,Blackburn Rovers,Round 28
+2027-01-27,19:45,Middlesbrough,Wrexham,Round 28
+2027-01-27,19:45,Swansea City,Portsmouth,Round 28
+2027-01-27,19:45,West Ham United,Cardiff City,Round 28
+2027-01-27,19:45,Wolverhampton Wanderers,Bristol City,Round 28
+2027-01-30,15:00,Bolton Wanderers,Derby County,Round 29
+2027-01-30,15:00,Burnley,Cardiff City,Round 29
+2027-01-30,15:00,Lincoln City,Queens Park Rangers,Round 29
+2027-01-30,15:00,Middlesbrough,Watford,Round 29
+2027-01-30,15:00,Millwall,West Bromwich Albion,Round 29
+2027-01-30,15:00,Norwich City,Bristol City,Round 29
+2027-01-30,15:00,Sheffield United,Charlton Athletic,Round 29
+2027-01-30,15:00,Southampton,Preston North End,Round 29
+2027-01-30,15:00,Stoke City,Portsmouth,Round 29
+2027-01-30,15:00,Swansea City,Birmingham City,Round 29
+2027-01-30,15:00,West Ham United,Blackburn Rovers,Round 29
+2027-01-30,15:00,Wolverhampton Wanderers,Wrexham,Round 29
+2027-02-06,15:00,Birmingham City,Stoke City,Round 30
+2027-02-06,15:00,Blackburn Rovers,Burnley,Round 30
+2027-02-06,15:00,Bristol City,Middlesbrough,Round 30
+2027-02-06,15:00,Cardiff City,Norwich City,Round 30
+2027-02-06,15:00,Charlton Athletic,Wolverhampton Wanderers,Round 30
+2027-02-06,15:00,Derby County,Southampton,Round 30
+2027-02-06,15:00,Portsmouth,Bolton Wanderers,Round 30
+2027-02-06,15:00,Preston North End,West Ham United,Round 30
+2027-02-06,15:00,Queens Park Rangers,Millwall,Round 30
+2027-02-06,15:00,Watford,Sheffield United,Round 30
+2027-02-06,15:00,West Bromwich Albion,Swansea City,Round 30
+2027-02-06,15:00,Wrexham,Lincoln City,Round 30
+2027-02-13,15:00,Birmingham City,Derby County,Round 31
+2027-02-13,15:00,Bristol City,Southampton,Round 31
+2027-02-13,15:00,Burnley,Swansea City,Round 31
+2027-02-13,15:00,Cardiff City,Bolton Wanderers,Round 31
+2027-02-13,15:00,Lincoln City,Preston North End,Round 31
+2027-02-13,15:00,Millwall,Blackburn Rovers,Round 31
+2027-02-13,15:00,Norwich City,Middlesbrough,Round 31
+2027-02-13,15:00,Portsmouth,Charlton Athletic,Round 31
+2027-02-13,15:00,Queens Park Rangers,West Bromwich Albion,Round 31
+2027-02-13,15:00,Stoke City,Watford,Round 31
+2027-02-13,15:00,Wolverhampton Wanderers,Sheffield United,Round 31
+2027-02-13,15:00,Wrexham,West Ham United,Round 31
+2027-02-16,19:45,Blackburn Rovers,Bristol City,Round 32
+2027-02-16,19:45,Charlton Athletic,Burnley,Round 32
+2027-02-16,19:45,Derby County,Queens Park Rangers,Round 32
+2027-02-16,19:45,Preston North End,Birmingham City,Round 32
+2027-02-16,19:45,Sheffield United,Portsmouth,Round 32
+2027-02-16,19:45,Watford,Cardiff City,Round 32
+2027-02-16,19:45,West Bromwich Albion,Wrexham,Round 32
+2027-02-16,19:45,West Ham United,Lincoln City,Round 32
+2027-02-17,19:45,Bolton Wanderers,Wolverhampton Wanderers,Round 32
+2027-02-17,19:45,Middlesbrough,Stoke City,Round 32
+2027-02-17,19:45,Southampton,Norwich City,Round 32
+2027-02-17,19:45,Swansea City,Millwall,Round 32
+2027-02-20,15:00,Blackburn Rovers,Portsmouth,Round 33
+2027-02-20,15:00,Bolton Wanderers,Norwich City,Round 33
+2027-02-20,15:00,Charlton Athletic,Cardiff City,Round 33
+2027-02-20,15:00,Derby County,Burnley,Round 33
+2027-02-20,15:00,Middlesbrough,Birmingham City,Round 33
+2027-02-20,15:00,Preston North End,Queens Park Rangers,Round 33
+2027-02-20,15:00,Sheffield United,Stoke City,Round 33
+2027-02-20,15:00,Southampton,Wrexham,Round 33
+2027-02-20,15:00,Swansea City,Lincoln City,Round 33
+2027-02-20,15:00,Watford,Bristol City,Round 33
+2027-02-20,15:00,West Bromwich Albion,Wolverhampton Wanderers,Round 33
+2027-02-20,15:00,West Ham United,Millwall,Round 33
+2027-02-27,15:00,Birmingham City,West Bromwich Albion,Round 34
+2027-02-27,15:00,Bristol City,Charlton Athletic,Round 34
+2027-02-27,15:00,Burnley,Watford,Round 34
+2027-02-27,15:00,Cardiff City,Blackburn Rovers,Round 34
+2027-02-27,15:00,Lincoln City,Sheffield United,Round 34
+2027-02-27,15:00,Millwall,Preston North End,Round 34
+2027-02-27,15:00,Norwich City,Swansea City,Round 34
+2027-02-27,15:00,Portsmouth,Southampton,Round 34
+2027-02-27,15:00,Queens Park Rangers,West Ham United,Round 34
+2027-02-27,15:00,Stoke City,Bolton Wanderers,Round 34
+2027-02-27,15:00,Wolverhampton Wanderers,Middlesbrough,Round 34
+2027-02-27,15:00,Wrexham,Derby County,Round 34
+2027-03-02,19:45,Bolton Wanderers,Queens Park Rangers,Round 35
+2027-03-02,19:45,Bristol City,Birmingham City,Round 35
+2027-03-02,19:45,Burnley,West Bromwich Albion,Round 35
+2027-03-02,19:45,Cardiff City,Derby County,Round 35
+2027-03-02,19:45,Charlton Athletic,West Ham United,Round 35
+2027-03-02,19:45,Middlesbrough,Blackburn Rovers,Round 35
+2027-03-02,19:45,Norwich City,Millwall,Round 35
+2027-03-02,19:45,Watford,Wrexham,Round 35
+2027-03-03,19:45,Portsmouth,Lincoln City,Round 35
+2027-03-03,19:45,Sheffield United,Swansea City,Round 35
+2027-03-03,19:45,Stoke City,Southampton,Round 35
+2027-03-03,19:45,Wolverhampton Wanderers,Preston North End,Round 35
+2027-03-06,15:00,Birmingham City,Sheffield United,Round 36
+2027-03-06,15:00,Blackburn Rovers,Wolverhampton Wanderers,Round 36
+2027-03-06,15:00,Derby County,Charlton Athletic,Round 36
+2027-03-06,15:00,Lincoln City,Middlesbrough,Round 36
+2027-03-06,15:00,Millwall,Bristol City,Round 36
+2027-03-06,15:00,Preston North End,Bolton Wanderers,Round 36
+2027-03-06,15:00,Queens Park Rangers,Portsmouth,Round 36
+2027-03-06,15:00,Southampton,Watford,Round 36
+2027-03-06,15:00,Swansea City,Stoke City,Round 36
+2027-03-06,15:00,West Bromwich Albion,Norwich City,Round 36
+2027-03-06,15:00,West Ham United,Burnley,Round 36
+2027-03-06,15:00,Wrexham,Cardiff City,Round 36
+2027-03-13,15:00,Bolton Wanderers,Birmingham City,Round 37
+2027-03-13,15:00,Bristol City,West Bromwich Albion,Round 37
+2027-03-13,15:00,Burnley,Millwall,Round 37
+2027-03-13,15:00,Cardiff City,Swansea City,Round 37
+2027-03-13,15:00,Charlton Athletic,Blackburn Rovers,Round 37
+2027-03-13,15:00,Middlesbrough,Southampton,Round 37
+2027-03-13,15:00,Norwich City,Preston North End,Round 37
+2027-03-13,15:00,Portsmouth,Wrexham,Round 37
+2027-03-13,15:00,Sheffield United,Queens Park Rangers,Round 37
+2027-03-13,15:00,Stoke City,West Ham United,Round 37
+2027-03-13,15:00,Watford,Derby County,Round 37
+2027-03-13,15:00,Wolverhampton Wanderers,Lincoln City,Round 37
+2027-03-16,19:45,Derby County,Middlesbrough,Round 38
+2027-03-16,19:45,Lincoln City,Cardiff City,Round 38
+2027-03-16,19:45,Preston North End,Burnley,Round 38
+2027-03-16,19:45,Queens Park Rangers,Stoke City,Round 38
+2027-03-16,19:45,Southampton,Wolverhampton Wanderers,Round 38
+2027-03-16,19:45,Swansea City,Bristol City,Round 38
+2027-03-16,19:45,West Bromwich Albion,Portsmouth,Round 38
+2027-03-16,19:45,Wrexham,Norwich City,Round 38
+2027-03-17,19:45,Birmingham City,Charlton Athletic,Round 38
+2027-03-17,19:45,Blackburn Rovers,Bolton Wanderers,Round 38
+2027-03-17,19:45,Millwall,Watford,Round 38
+2027-03-17,19:45,West Ham United,Sheffield United,Round 38
+2027-03-20,15:00,Birmingham City,Blackburn Rovers,Round 39
+2027-03-20,15:00,Bristol City,Queens Park Rangers,Round 39
+2027-03-20,15:00,Burnley,Bolton Wanderers,Round 39
+2027-03-20,15:00,Derby County,Preston North End,Round 39
+2027-03-20,15:00,Middlesbrough,Sheffield United,Round 39
+2027-03-20,15:00,Millwall,Cardiff City,Round 39
+2027-03-20,15:00,Norwich City,West Ham United,Round 39
+2027-03-20,15:00,Southampton,Charlton Athletic,Round 39
+2027-03-20,15:00,Swansea City,Wolverhampton Wanderers,Round 39
+2027-03-20,15:00,Watford,Portsmouth,Round 39
+2027-03-20,15:00,West Bromwich Albion,Lincoln City,Round 39
+2027-03-20,15:00,Wrexham,Stoke City,Round 39
+2027-04-03,15:00,Blackburn Rovers,Southampton,Round 40
+2027-04-03,15:00,Bolton Wanderers,Watford,Round 40
+2027-04-03,15:00,Cardiff City,Bristol City,Round 40
+2027-04-03,15:00,Charlton Athletic,Millwall,Round 40
+2027-04-03,15:00,Lincoln City,Derby County,Round 40
+2027-04-03,15:00,Portsmouth,Middlesbrough,Round 40
+2027-04-03,15:00,Preston North End,Swansea City,Round 40
+2027-04-03,15:00,Queens Park Rangers,Wrexham,Round 40
+2027-04-03,15:00,Sheffield United,West Bromwich Albion,Round 40
+2027-04-03,15:00,Stoke City,Burnley,Round 40
+2027-04-03,15:00,West Ham United,Birmingham City,Round 40
+2027-04-03,15:00,Wolverhampton Wanderers,Norwich City,Round 40
+2027-04-06,19:45,Burnley,Wrexham,Round 41
+2027-04-06,19:45,Lincoln City,Bristol City,Round 41
+2027-04-06,19:45,Millwall,Middlesbrough,Round 41
+2027-04-06,19:45,Portsmouth,Wolverhampton Wanderers,Round 41
+2027-04-06,19:45,Queens Park Rangers,Charlton Athletic,Round 41
+2027-04-06,19:45,Stoke City,Cardiff City,Round 41
+2027-04-06,19:45,Swansea City,Southampton,Round 41
+2027-04-06,19:45,West Ham United,Bolton Wanderers,Round 41
+2027-04-07,19:45,Birmingham City,Norwich City,Round 41
+2027-04-07,19:45,Preston North End,Watford,Round 41
+2027-04-07,19:45,Sheffield United,Blackburn Rovers,Round 41
+2027-04-07,19:45,West Bromwich Albion,Derby County,Round 41
+2027-04-10,15:00,Blackburn Rovers,Preston North End,Round 42
+2027-04-10,15:00,Bolton Wanderers,Millwall,Round 42
+2027-04-10,15:00,Bristol City,Burnley,Round 42
+2027-04-10,15:00,Cardiff City,Portsmouth,Round 42
+2027-04-10,15:00,Charlton Athletic,Stoke City,Round 42
+2027-04-10,15:00,Derby County,West Ham United,Round 42
+2027-04-10,15:00,Middlesbrough,Queens Park Rangers,Round 42
+2027-04-10,15:00,Norwich City,Sheffield United,Round 42
+2027-04-10,15:00,Southampton,Lincoln City,Round 42
+2027-04-10,15:00,Watford,West Bromwich Albion,Round 42
+2027-04-10,15:00,Wolverhampton Wanderers,Birmingham City,Round 42
+2027-04-10,15:00,Wrexham,Swansea City,Round 42
+2027-04-17,15:00,Birmingham City,Wrexham,Round 43
+2027-04-17,15:00,Burnley,Norwich City,Round 43
+2027-04-17,15:00,Lincoln City,Bolton Wanderers,Round 43
+2027-04-17,15:00,Millwall,Southampton,Round 43
+2027-04-17,15:00,Portsmouth,Bristol City,Round 43
+2027-04-17,15:00,Preston North End,Charlton Athletic,Round 43
+2027-04-17,15:00,Queens Park Rangers,Blackburn Rovers,Round 43
+2027-04-17,15:00,Sheffield United,Cardiff City,Round 43
+2027-04-17,15:00,Stoke City,Wolverhampton Wanderers,Round 43
+2027-04-17,15:00,Swansea City,Derby County,Round 43
+2027-04-17,15:00,West Bromwich Albion,Middlesbrough,Round 43
+2027-04-17,15:00,West Ham United,Watford,Round 43
+2027-04-20,19:45,Bolton Wanderers,Sheffield United,Round 44
+2027-04-20,19:45,Charlton Athletic,West Bromwich Albion,Round 44
+2027-04-20,19:45,Derby County,Portsmouth,Round 44
+2027-04-20,19:45,Middlesbrough,Burnley,Round 44
+2027-04-20,19:45,Norwich City,Stoke City,Round 44
+2027-04-20,19:45,Southampton,Birmingham City,Round 44
+2027-04-20,19:45,Wolverhampton Wanderers,West Ham United,Round 44
+2027-04-20,19:45,Wrexham,Millwall,Round 44
+2027-04-21,19:45,Blackburn Rovers,Lincoln City,Round 44
+2027-04-21,19:45,Bristol City,Preston North End,Round 44
+2027-04-21,19:45,Cardiff City,Queens Park Rangers,Round 44
+2027-04-21,19:45,Watford,Swansea City,Round 44
+2027-04-24,15:00,Bolton Wanderers,Swansea City,Round 45
+2027-04-24,15:00,Bristol City,Derby County,Round 45
+2027-04-24,15:00,Burnley,Southampton,Round 45
+2027-04-24,15:00,Cardiff City,West Bromwich Albion,Round 45
+2027-04-24,15:00,Charlton Athletic,Wrexham,Round 45
+2027-04-24,15:00,Middlesbrough,West Ham United,Round 45
+2027-04-24,15:00,Norwich City,Blackburn Rovers,Round 45
+2027-04-24,15:00,Portsmouth,Preston North End,Round 45
+2027-04-24,15:00,Sheffield United,Millwall,Round 45
+2027-04-24,15:00,Stoke City,Lincoln City,Round 45
+2027-04-24,15:00,Watford,Birmingham City,Round 45
+2027-04-24,15:00,Wolverhampton Wanderers,Queens Park Rangers,Round 45
+2027-05-01,12:30,Birmingham City,Burnley,Round 46
+2027-05-01,12:30,Blackburn Rovers,Watford,Round 46
+2027-05-01,12:30,Derby County,Wolverhampton Wanderers,Round 46
+2027-05-01,12:30,Lincoln City,Charlton Athletic,Round 46
+2027-05-01,12:30,Millwall,Stoke City,Round 46
+2027-05-01,12:30,Preston North End,Cardiff City,Round 46
+2027-05-01,12:30,Queens Park Rangers,Norwich City,Round 46
+2027-05-01,12:30,Southampton,Sheffield United,Round 46
+2027-05-01,12:30,Swansea City,Middlesbrough,Round 46
+2027-05-01,12:30,West Bromwich Albion,Bolton Wanderers,Round 46
+2027-05-01,12:30,West Ham United,Portsmouth,Round 46
+2027-05-01,12:30,Wrexham,Bristol City,Round 46

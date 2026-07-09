@@ -1,0 +1,381 @@
+date,time,home,away,round
+2026-08-21,20:00,Arsenal,Coventry City,Matchweek 1
+2026-08-22,12:30,Hull City,Manchester United,Matchweek 1
+2026-08-22,15:00,Everton,Crystal Palace,Matchweek 1
+2026-08-22,15:00,Ipswich Town,Sunderland,Matchweek 1
+2026-08-22,15:00,Nottingham Forest,Leeds United,Matchweek 1
+2026-08-22,17:30,Brentford,Tottenham Hotspur,Matchweek 1
+2026-08-23,14:00,Brighton & Hove Albion,Aston Villa,Matchweek 1
+2026-08-23,14:00,Manchester City,AFC Bournemouth,Matchweek 1
+2026-08-23,16:30,Newcastle United,Liverpool,Matchweek 1
+2026-08-24,20:00,Fulham,Chelsea,Matchweek 1
+2026-08-28,20:00,Crystal Palace,Manchester City,Matchweek 2
+2026-08-29,12:30,Liverpool,Nottingham Forest,Matchweek 2
+2026-08-29,15:00,AFC Bournemouth,Everton,Matchweek 2
+2026-08-29,15:00,Coventry City,Hull City,Matchweek 2
+2026-08-29,17:30,Tottenham Hotspur,Newcastle United,Matchweek 2
+2026-08-30,14:00,Chelsea,Brighton & Hove Albion,Matchweek 2
+2026-08-30,14:00,Leeds United,Brentford,Matchweek 2
+2026-08-30,14:00,Sunderland,Fulham,Matchweek 2
+2026-08-30,16:30,Manchester United,Ipswich Town,Matchweek 2
+2026-08-31,20:00,Aston Villa,Arsenal,Matchweek 2
+2026-09-04,20:00,Ipswich Town,Liverpool,Matchweek 3
+2026-09-05,12:30,Newcastle United,AFC Bournemouth,Matchweek 3
+2026-09-05,15:00,Brentford,Sunderland,Matchweek 3
+2026-09-05,15:00,Brighton & Hove Albion,Leeds United,Matchweek 3
+2026-09-05,15:00,Fulham,Crystal Palace,Matchweek 3
+2026-09-05,15:00,Manchester City,Coventry City,Matchweek 3
+2026-09-05,15:00,Nottingham Forest,Tottenham Hotspur,Matchweek 3
+2026-09-05,17:30,Hull City,Aston Villa,Matchweek 3
+2026-09-06,14:00,Everton,Manchester United,Matchweek 3
+2026-09-06,16:30,Arsenal,Chelsea,Matchweek 3
+2026-09-12,15:00,AFC Bournemouth,Brentford,Matchweek 4
+2026-09-12,15:00,Aston Villa,Nottingham Forest,Matchweek 4
+2026-09-12,15:00,Chelsea,Hull City,Matchweek 4
+2026-09-12,15:00,Crystal Palace,Ipswich Town,Matchweek 4
+2026-09-12,15:00,Liverpool,Fulham,Matchweek 4
+2026-09-12,17:30,Tottenham Hotspur,Everton,Matchweek 4
+2026-09-12,20:00,Sunderland,Arsenal,Matchweek 4
+2026-09-13,14:00,Coventry City,Brighton & Hove Albion,Matchweek 4
+2026-09-13,16:30,Manchester United,Manchester City,Matchweek 4
+2026-09-14,20:00,Leeds United,Newcastle United,Matchweek 4
+2026-09-18,20:00,Brentford,Chelsea,Matchweek 5
+2026-09-19,12:30,Tottenham Hotspur,Aston Villa,Matchweek 5
+2026-09-19,15:00,Brighton & Hove Albion,Arsenal,Matchweek 5
+2026-09-19,15:00,Everton,Ipswich Town,Matchweek 5
+2026-09-19,15:00,Leeds United,Crystal Palace,Matchweek 5
+2026-09-19,15:00,Manchester City,Sunderland,Matchweek 5
+2026-09-19,15:00,Newcastle United,Hull City,Matchweek 5
+2026-09-19,17:30,Nottingham Forest,Coventry City,Matchweek 5
+2026-09-20,14:00,AFC Bournemouth,Liverpool,Matchweek 5
+2026-09-20,16:30,Fulham,Manchester United,Matchweek 5
+2026-10-10,15:00,Arsenal,Leeds United,Matchweek 6
+2026-10-10,15:00,Aston Villa,Brentford,Matchweek 6
+2026-10-10,15:00,Chelsea,AFC Bournemouth,Matchweek 6
+2026-10-10,15:00,Coventry City,Newcastle United,Matchweek 6
+2026-10-10,15:00,Crystal Palace,Nottingham Forest,Matchweek 6
+2026-10-10,15:00,Hull City,Everton,Matchweek 6
+2026-10-10,15:00,Ipswich Town,Fulham,Matchweek 6
+2026-10-10,15:00,Liverpool,Manchester City,Matchweek 6
+2026-10-10,15:00,Manchester United,Tottenham Hotspur,Matchweek 6
+2026-10-10,15:00,Sunderland,Brighton & Hove Albion,Matchweek 6
+2026-10-17,15:00,AFC Bournemouth,Sunderland,Matchweek 7
+2026-10-17,15:00,Brentford,Liverpool,Matchweek 7
+2026-10-17,15:00,Brighton & Hove Albion,Crystal Palace,Matchweek 7
+2026-10-17,15:00,Everton,Chelsea,Matchweek 7
+2026-10-17,15:00,Fulham,Hull City,Matchweek 7
+2026-10-17,15:00,Leeds United,Manchester United,Matchweek 7
+2026-10-17,15:00,Manchester City,Ipswich Town,Matchweek 7
+2026-10-17,15:00,Newcastle United,Aston Villa,Matchweek 7
+2026-10-17,15:00,Nottingham Forest,Arsenal,Matchweek 7
+2026-10-17,15:00,Tottenham Hotspur,Coventry City,Matchweek 7
+2026-10-24,15:00,Arsenal,Everton,Matchweek 8
+2026-10-24,15:00,Aston Villa,Manchester City,Matchweek 8
+2026-10-24,15:00,Chelsea,Tottenham Hotspur,Matchweek 8
+2026-10-24,15:00,Coventry City,Fulham,Matchweek 8
+2026-10-24,15:00,Crystal Palace,Newcastle United,Matchweek 8
+2026-10-24,15:00,Hull City,Brentford,Matchweek 8
+2026-10-24,15:00,Ipswich Town,Nottingham Forest,Matchweek 8
+2026-10-24,15:00,Liverpool,Brighton & Hove Albion,Matchweek 8
+2026-10-24,15:00,Manchester United,AFC Bournemouth,Matchweek 8
+2026-10-24,15:00,Sunderland,Leeds United,Matchweek 8
+2026-10-31,15:00,AFC Bournemouth,Leeds United,Matchweek 9
+2026-10-31,15:00,Aston Villa,Fulham,Matchweek 9
+2026-10-31,15:00,Brentford,Nottingham Forest,Matchweek 9
+2026-10-31,15:00,Chelsea,Manchester United,Matchweek 9
+2026-10-31,15:00,Coventry City,Sunderland,Matchweek 9
+2026-10-31,15:00,Hull City,Ipswich Town,Matchweek 9
+2026-10-31,15:00,Liverpool,Arsenal,Matchweek 9
+2026-10-31,15:00,Manchester City,Brighton & Hove Albion,Matchweek 9
+2026-10-31,15:00,Newcastle United,Everton,Matchweek 9
+2026-10-31,15:00,Tottenham Hotspur,Crystal Palace,Matchweek 9
+2026-11-07,15:00,Arsenal,Hull City,Matchweek 10
+2026-11-07,15:00,Brighton & Hove Albion,Brentford,Matchweek 10
+2026-11-07,15:00,Crystal Palace,Liverpool,Matchweek 10
+2026-11-07,15:00,Everton,Coventry City,Matchweek 10
+2026-11-07,15:00,Fulham,Newcastle United,Matchweek 10
+2026-11-07,15:00,Ipswich Town,AFC Bournemouth,Matchweek 10
+2026-11-07,15:00,Leeds United,Tottenham Hotspur,Matchweek 10
+2026-11-07,15:00,Manchester United,Aston Villa,Matchweek 10
+2026-11-07,15:00,Nottingham Forest,Manchester City,Matchweek 10
+2026-11-07,15:00,Sunderland,Chelsea,Matchweek 10
+2026-11-21,15:00,AFC Bournemouth,Nottingham Forest,Matchweek 11
+2026-11-21,15:00,Aston Villa,Sunderland,Matchweek 11
+2026-11-21,15:00,Brentford,Everton,Matchweek 11
+2026-11-21,15:00,Chelsea,Leeds United,Matchweek 11
+2026-11-21,15:00,Coventry City,Crystal Palace,Matchweek 11
+2026-11-21,15:00,Hull City,Brighton & Hove Albion,Matchweek 11
+2026-11-21,15:00,Liverpool,Manchester United,Matchweek 11
+2026-11-21,15:00,Manchester City,Fulham,Matchweek 11
+2026-11-21,15:00,Newcastle United,Arsenal,Matchweek 11
+2026-11-21,15:00,Tottenham Hotspur,Ipswich Town,Matchweek 11
+2026-11-28,15:00,Arsenal,Manchester City,Matchweek 12
+2026-11-28,15:00,Brighton & Hove Albion,Newcastle United,Matchweek 12
+2026-11-28,15:00,Crystal Palace,Hull City,Matchweek 12
+2026-11-28,15:00,Everton,Liverpool,Matchweek 12
+2026-11-28,15:00,Fulham,AFC Bournemouth,Matchweek 12
+2026-11-28,15:00,Ipswich Town,Aston Villa,Matchweek 12
+2026-11-28,15:00,Leeds United,Coventry City,Matchweek 12
+2026-11-28,15:00,Manchester United,Brentford,Matchweek 12
+2026-11-28,15:00,Nottingham Forest,Chelsea,Matchweek 12
+2026-11-28,15:00,Sunderland,Tottenham Hotspur,Matchweek 12
+2026-12-02,20:00,AFC Bournemouth,Brighton & Hove Albion,Matchweek 13
+2026-12-02,20:00,Aston Villa,Everton,Matchweek 13
+2026-12-02,20:00,Brentford,Arsenal,Matchweek 13
+2026-12-02,20:00,Chelsea,Crystal Palace,Matchweek 13
+2026-12-02,20:00,Coventry City,Ipswich Town,Matchweek 13
+2026-12-02,20:00,Hull City,Nottingham Forest,Matchweek 13
+2026-12-02,20:00,Liverpool,Sunderland,Matchweek 13
+2026-12-02,20:00,Manchester City,Leeds United,Matchweek 13
+2026-12-02,20:00,Newcastle United,Manchester United,Matchweek 13
+2026-12-02,20:00,Tottenham Hotspur,Fulham,Matchweek 13
+2026-12-05,15:00,AFC Bournemouth,Hull City,Matchweek 14
+2026-12-05,15:00,Aston Villa,Crystal Palace,Matchweek 14
+2026-12-05,15:00,Brentford,Manchester City,Matchweek 14
+2026-12-05,15:00,Chelsea,Liverpool,Matchweek 14
+2026-12-05,15:00,Everton,Fulham,Matchweek 14
+2026-12-05,15:00,Leeds United,Ipswich Town,Matchweek 14
+2026-12-05,15:00,Manchester United,Coventry City,Matchweek 14
+2026-12-05,15:00,Newcastle United,Sunderland,Matchweek 14
+2026-12-05,15:00,Nottingham Forest,Brighton & Hove Albion,Matchweek 14
+2026-12-05,15:00,Tottenham Hotspur,Arsenal,Matchweek 14
+2026-12-12,15:00,Arsenal,AFC Bournemouth,Matchweek 15
+2026-12-12,15:00,Brighton & Hove Albion,Everton,Matchweek 15
+2026-12-12,15:00,Coventry City,Aston Villa,Matchweek 15
+2026-12-12,15:00,Crystal Palace,Manchester United,Matchweek 15
+2026-12-12,15:00,Fulham,Brentford,Matchweek 15
+2026-12-12,15:00,Hull City,Tottenham Hotspur,Matchweek 15
+2026-12-12,15:00,Ipswich Town,Newcastle United,Matchweek 15
+2026-12-12,15:00,Liverpool,Leeds United,Matchweek 15
+2026-12-12,15:00,Manchester City,Chelsea,Matchweek 15
+2026-12-12,15:00,Sunderland,Nottingham Forest,Matchweek 15
+2026-12-19,15:00,AFC Bournemouth,Coventry City,Matchweek 16
+2026-12-19,15:00,Arsenal,Manchester United,Matchweek 16
+2026-12-19,15:00,Brentford,Newcastle United,Matchweek 16
+2026-12-19,15:00,Brighton & Hove Albion,Ipswich Town,Matchweek 16
+2026-12-19,15:00,Chelsea,Aston Villa,Matchweek 16
+2026-12-19,15:00,Leeds United,Fulham,Matchweek 16
+2026-12-19,15:00,Liverpool,Tottenham Hotspur,Matchweek 16
+2026-12-19,15:00,Manchester City,Hull City,Matchweek 16
+2026-12-19,15:00,Nottingham Forest,Everton,Matchweek 16
+2026-12-19,15:00,Sunderland,Crystal Palace,Matchweek 16
+2026-12-26,15:00,Aston Villa,Leeds United,Matchweek 17
+2026-12-26,15:00,Coventry City,Chelsea,Matchweek 17
+2026-12-26,15:00,Crystal Palace,Arsenal,Matchweek 17
+2026-12-26,15:00,Everton,Sunderland,Matchweek 17
+2026-12-26,15:00,Fulham,Brighton & Hove Albion,Matchweek 17
+2026-12-26,15:00,Hull City,Liverpool,Matchweek 17
+2026-12-26,15:00,Ipswich Town,Brentford,Matchweek 17
+2026-12-26,15:00,Manchester United,Nottingham Forest,Matchweek 17
+2026-12-26,15:00,Newcastle United,Manchester City,Matchweek 17
+2026-12-26,15:00,Tottenham Hotspur,AFC Bournemouth,Matchweek 17
+2026-12-30,20:00,Aston Villa,Liverpool,Matchweek 18
+2026-12-30,20:00,Coventry City,Brentford,Matchweek 18
+2026-12-30,20:00,Crystal Palace,AFC Bournemouth,Matchweek 18
+2026-12-30,20:00,Everton,Manchester City,Matchweek 18
+2026-12-30,20:00,Fulham,Arsenal,Matchweek 18
+2026-12-30,20:00,Hull City,Leeds United,Matchweek 18
+2026-12-30,20:00,Ipswich Town,Chelsea,Matchweek 18
+2026-12-30,20:00,Manchester United,Sunderland,Matchweek 18
+2026-12-30,20:00,Newcastle United,Nottingham Forest,Matchweek 18
+2026-12-30,20:00,Tottenham Hotspur,Brighton & Hove Albion,Matchweek 18
+2027-01-02,15:00,AFC Bournemouth,Aston Villa,Matchweek 19
+2027-01-02,15:00,Arsenal,Ipswich Town,Matchweek 19
+2027-01-02,15:00,Brentford,Crystal Palace,Matchweek 19
+2027-01-02,15:00,Brighton & Hove Albion,Manchester United,Matchweek 19
+2027-01-02,15:00,Chelsea,Newcastle United,Matchweek 19
+2027-01-02,15:00,Leeds United,Everton,Matchweek 19
+2027-01-02,15:00,Liverpool,Coventry City,Matchweek 19
+2027-01-02,15:00,Manchester City,Tottenham Hotspur,Matchweek 19
+2027-01-02,15:00,Nottingham Forest,Fulham,Matchweek 19
+2027-01-02,15:00,Sunderland,Hull City,Matchweek 19
+2027-01-06,20:00,Arsenal,Brentford,Matchweek 20
+2027-01-06,20:00,Brighton & Hove Albion,AFC Bournemouth,Matchweek 20
+2027-01-06,20:00,Crystal Palace,Chelsea,Matchweek 20
+2027-01-06,20:00,Everton,Aston Villa,Matchweek 20
+2027-01-06,20:00,Fulham,Tottenham Hotspur,Matchweek 20
+2027-01-06,20:00,Ipswich Town,Coventry City,Matchweek 20
+2027-01-06,20:00,Leeds United,Manchester City,Matchweek 20
+2027-01-06,20:00,Manchester United,Newcastle United,Matchweek 20
+2027-01-06,20:00,Nottingham Forest,Hull City,Matchweek 20
+2027-01-06,20:00,Sunderland,Liverpool,Matchweek 20
+2027-01-16,15:00,AFC Bournemouth,Ipswich Town,Matchweek 21
+2027-01-16,15:00,Aston Villa,Manchester United,Matchweek 21
+2027-01-16,15:00,Brentford,Brighton & Hove Albion,Matchweek 21
+2027-01-16,15:00,Chelsea,Sunderland,Matchweek 21
+2027-01-16,15:00,Coventry City,Everton,Matchweek 21
+2027-01-16,15:00,Hull City,Arsenal,Matchweek 21
+2027-01-16,15:00,Liverpool,Crystal Palace,Matchweek 21
+2027-01-16,15:00,Manchester City,Nottingham Forest,Matchweek 21
+2027-01-16,15:00,Newcastle United,Fulham,Matchweek 21
+2027-01-16,15:00,Tottenham Hotspur,Leeds United,Matchweek 21
+2027-01-23,15:00,Arsenal,Newcastle United,Matchweek 22
+2027-01-23,15:00,Brighton & Hove Albion,Manchester City,Matchweek 22
+2027-01-23,15:00,Crystal Palace,Tottenham Hotspur,Matchweek 22
+2027-01-23,15:00,Everton,Brentford,Matchweek 22
+2027-01-23,15:00,Fulham,Aston Villa,Matchweek 22
+2027-01-23,15:00,Ipswich Town,Hull City,Matchweek 22
+2027-01-23,15:00,Leeds United,Chelsea,Matchweek 22
+2027-01-23,15:00,Manchester United,Liverpool,Matchweek 22
+2027-01-23,15:00,Nottingham Forest,AFC Bournemouth,Matchweek 22
+2027-01-23,15:00,Sunderland,Coventry City,Matchweek 22
+2027-01-30,15:00,AFC Bournemouth,Fulham,Matchweek 23
+2027-01-30,15:00,Aston Villa,Ipswich Town,Matchweek 23
+2027-01-30,15:00,Brentford,Manchester United,Matchweek 23
+2027-01-30,15:00,Chelsea,Nottingham Forest,Matchweek 23
+2027-01-30,15:00,Coventry City,Leeds United,Matchweek 23
+2027-01-30,15:00,Hull City,Crystal Palace,Matchweek 23
+2027-01-30,15:00,Liverpool,Everton,Matchweek 23
+2027-01-30,15:00,Manchester City,Arsenal,Matchweek 23
+2027-01-30,15:00,Newcastle United,Brighton & Hove Albion,Matchweek 23
+2027-01-30,15:00,Tottenham Hotspur,Sunderland,Matchweek 23
+2027-02-06,15:00,Arsenal,Liverpool,Matchweek 24
+2027-02-06,15:00,Brighton & Hove Albion,Hull City,Matchweek 24
+2027-02-06,15:00,Crystal Palace,Coventry City,Matchweek 24
+2027-02-06,15:00,Everton,Newcastle United,Matchweek 24
+2027-02-06,15:00,Fulham,Manchester City,Matchweek 24
+2027-02-06,15:00,Ipswich Town,Tottenham Hotspur,Matchweek 24
+2027-02-06,15:00,Leeds United,AFC Bournemouth,Matchweek 24
+2027-02-06,15:00,Manchester United,Chelsea,Matchweek 24
+2027-02-06,15:00,Nottingham Forest,Brentford,Matchweek 24
+2027-02-06,15:00,Sunderland,Aston Villa,Matchweek 24
+2027-02-10,20:00,Aston Villa,AFC Bournemouth,Matchweek 25
+2027-02-10,20:00,Coventry City,Liverpool,Matchweek 25
+2027-02-10,20:00,Crystal Palace,Brentford,Matchweek 25
+2027-02-10,20:00,Everton,Leeds United,Matchweek 25
+2027-02-10,20:00,Fulham,Nottingham Forest,Matchweek 25
+2027-02-10,20:00,Hull City,Sunderland,Matchweek 25
+2027-02-10,20:00,Ipswich Town,Arsenal,Matchweek 25
+2027-02-10,20:00,Manchester United,Brighton & Hove Albion,Matchweek 25
+2027-02-10,20:00,Newcastle United,Chelsea,Matchweek 25
+2027-02-10,20:00,Tottenham Hotspur,Manchester City,Matchweek 25
+2027-02-20,15:00,AFC Bournemouth,Crystal Palace,Matchweek 26
+2027-02-20,15:00,Arsenal,Fulham,Matchweek 26
+2027-02-20,15:00,Brentford,Coventry City,Matchweek 26
+2027-02-20,15:00,Brighton & Hove Albion,Tottenham Hotspur,Matchweek 26
+2027-02-20,15:00,Chelsea,Ipswich Town,Matchweek 26
+2027-02-20,15:00,Leeds United,Aston Villa,Matchweek 26
+2027-02-20,15:00,Liverpool,Hull City,Matchweek 26
+2027-02-20,15:00,Manchester City,Newcastle United,Matchweek 26
+2027-02-20,15:00,Nottingham Forest,Manchester United,Matchweek 26
+2027-02-20,15:00,Sunderland,Everton,Matchweek 26
+2027-02-27,15:00,Aston Villa,Chelsea,Matchweek 27
+2027-02-27,15:00,Coventry City,AFC Bournemouth,Matchweek 27
+2027-02-27,15:00,Crystal Palace,Sunderland,Matchweek 27
+2027-02-27,15:00,Everton,Nottingham Forest,Matchweek 27
+2027-02-27,15:00,Fulham,Leeds United,Matchweek 27
+2027-02-27,15:00,Hull City,Manchester City,Matchweek 27
+2027-02-27,15:00,Ipswich Town,Brighton & Hove Albion,Matchweek 27
+2027-02-27,15:00,Manchester United,Arsenal,Matchweek 27
+2027-02-27,15:00,Newcastle United,Brentford,Matchweek 27
+2027-02-27,15:00,Tottenham Hotspur,Liverpool,Matchweek 27
+2027-03-03,20:00,AFC Bournemouth,Tottenham Hotspur,Matchweek 28
+2027-03-03,20:00,Arsenal,Crystal Palace,Matchweek 28
+2027-03-03,20:00,Brentford,Ipswich Town,Matchweek 28
+2027-03-03,20:00,Brighton & Hove Albion,Fulham,Matchweek 28
+2027-03-03,20:00,Chelsea,Coventry City,Matchweek 28
+2027-03-03,20:00,Leeds United,Hull City,Matchweek 28
+2027-03-03,20:00,Liverpool,Aston Villa,Matchweek 28
+2027-03-03,20:00,Manchester City,Everton,Matchweek 28
+2027-03-03,20:00,Nottingham Forest,Newcastle United,Matchweek 28
+2027-03-03,20:00,Sunderland,Manchester United,Matchweek 28
+2027-03-13,15:00,AFC Bournemouth,Newcastle United,Matchweek 29
+2027-03-13,15:00,Aston Villa,Hull City,Matchweek 29
+2027-03-13,15:00,Chelsea,Arsenal,Matchweek 29
+2027-03-13,15:00,Coventry City,Manchester City,Matchweek 29
+2027-03-13,15:00,Crystal Palace,Fulham,Matchweek 29
+2027-03-13,15:00,Leeds United,Brighton & Hove Albion,Matchweek 29
+2027-03-13,15:00,Liverpool,Ipswich Town,Matchweek 29
+2027-03-13,15:00,Manchester United,Everton,Matchweek 29
+2027-03-13,15:00,Sunderland,Brentford,Matchweek 29
+2027-03-13,15:00,Tottenham Hotspur,Nottingham Forest,Matchweek 29
+2027-03-20,15:00,Arsenal,Sunderland,Matchweek 30
+2027-03-20,15:00,Brentford,AFC Bournemouth,Matchweek 30
+2027-03-20,15:00,Brighton & Hove Albion,Coventry City,Matchweek 30
+2027-03-20,15:00,Everton,Tottenham Hotspur,Matchweek 30
+2027-03-20,15:00,Fulham,Liverpool,Matchweek 30
+2027-03-20,15:00,Hull City,Chelsea,Matchweek 30
+2027-03-20,15:00,Ipswich Town,Crystal Palace,Matchweek 30
+2027-03-20,15:00,Manchester City,Manchester United,Matchweek 30
+2027-03-20,15:00,Newcastle United,Leeds United,Matchweek 30
+2027-03-20,15:00,Nottingham Forest,Aston Villa,Matchweek 30
+2027-04-10,15:00,AFC Bournemouth,Manchester City,Matchweek 31
+2027-04-10,15:00,Aston Villa,Brighton & Hove Albion,Matchweek 31
+2027-04-10,15:00,Chelsea,Fulham,Matchweek 31
+2027-04-10,15:00,Coventry City,Arsenal,Matchweek 31
+2027-04-10,15:00,Crystal Palace,Everton,Matchweek 31
+2027-04-10,15:00,Leeds United,Nottingham Forest,Matchweek 31
+2027-04-10,15:00,Liverpool,Newcastle United,Matchweek 31
+2027-04-10,15:00,Manchester United,Hull City,Matchweek 31
+2027-04-10,15:00,Sunderland,Ipswich Town,Matchweek 31
+2027-04-10,15:00,Tottenham Hotspur,Brentford,Matchweek 31
+2027-04-17,15:00,Arsenal,Aston Villa,Matchweek 32
+2027-04-17,15:00,Brentford,Leeds United,Matchweek 32
+2027-04-17,15:00,Brighton & Hove Albion,Chelsea,Matchweek 32
+2027-04-17,15:00,Everton,AFC Bournemouth,Matchweek 32
+2027-04-17,15:00,Fulham,Sunderland,Matchweek 32
+2027-04-17,15:00,Hull City,Coventry City,Matchweek 32
+2027-04-17,15:00,Ipswich Town,Manchester United,Matchweek 32
+2027-04-17,15:00,Manchester City,Crystal Palace,Matchweek 32
+2027-04-17,15:00,Newcastle United,Tottenham Hotspur,Matchweek 32
+2027-04-17,15:00,Nottingham Forest,Liverpool,Matchweek 32
+2027-04-24,15:00,AFC Bournemouth,Arsenal,Matchweek 33
+2027-04-24,15:00,Aston Villa,Coventry City,Matchweek 33
+2027-04-24,15:00,Brentford,Fulham,Matchweek 33
+2027-04-24,15:00,Chelsea,Manchester City,Matchweek 33
+2027-04-24,15:00,Everton,Brighton & Hove Albion,Matchweek 33
+2027-04-24,15:00,Leeds United,Liverpool,Matchweek 33
+2027-04-24,15:00,Manchester United,Crystal Palace,Matchweek 33
+2027-04-24,15:00,Newcastle United,Ipswich Town,Matchweek 33
+2027-04-24,15:00,Nottingham Forest,Sunderland,Matchweek 33
+2027-04-24,15:00,Tottenham Hotspur,Hull City,Matchweek 33
+2027-05-01,15:00,Arsenal,Tottenham Hotspur,Matchweek 34
+2027-05-01,15:00,Brighton & Hove Albion,Nottingham Forest,Matchweek 34
+2027-05-01,15:00,Coventry City,Manchester United,Matchweek 34
+2027-05-01,15:00,Crystal Palace,Aston Villa,Matchweek 34
+2027-05-01,15:00,Fulham,Everton,Matchweek 34
+2027-05-01,15:00,Hull City,AFC Bournemouth,Matchweek 34
+2027-05-01,15:00,Ipswich Town,Leeds United,Matchweek 34
+2027-05-01,15:00,Liverpool,Chelsea,Matchweek 34
+2027-05-01,15:00,Manchester City,Brentford,Matchweek 34
+2027-05-01,15:00,Sunderland,Newcastle United,Matchweek 34
+2027-05-08,15:00,AFC Bournemouth,Manchester United,Matchweek 35
+2027-05-08,15:00,Brentford,Aston Villa,Matchweek 35
+2027-05-08,15:00,Brighton & Hove Albion,Sunderland,Matchweek 35
+2027-05-08,15:00,Everton,Hull City,Matchweek 35
+2027-05-08,15:00,Fulham,Ipswich Town,Matchweek 35
+2027-05-08,15:00,Leeds United,Arsenal,Matchweek 35
+2027-05-08,15:00,Manchester City,Liverpool,Matchweek 35
+2027-05-08,15:00,Newcastle United,Coventry City,Matchweek 35
+2027-05-08,15:00,Nottingham Forest,Crystal Palace,Matchweek 35
+2027-05-08,15:00,Tottenham Hotspur,Chelsea,Matchweek 35
+2027-05-15,15:00,Arsenal,Nottingham Forest,Matchweek 36
+2027-05-15,15:00,Aston Villa,Newcastle United,Matchweek 36
+2027-05-15,15:00,Chelsea,Everton,Matchweek 36
+2027-05-15,15:00,Coventry City,Tottenham Hotspur,Matchweek 36
+2027-05-15,15:00,Crystal Palace,Brighton & Hove Albion,Matchweek 36
+2027-05-15,15:00,Hull City,Fulham,Matchweek 36
+2027-05-15,15:00,Ipswich Town,Manchester City,Matchweek 36
+2027-05-15,15:00,Liverpool,Brentford,Matchweek 36
+2027-05-15,15:00,Manchester United,Leeds United,Matchweek 36
+2027-05-15,15:00,Sunderland,AFC Bournemouth,Matchweek 36
+2027-05-23,15:00,AFC Bournemouth,Chelsea,Matchweek 37
+2027-05-23,15:00,Brentford,Hull City,Matchweek 37
+2027-05-23,15:00,Brighton & Hove Albion,Liverpool,Matchweek 37
+2027-05-23,15:00,Everton,Arsenal,Matchweek 37
+2027-05-23,15:00,Fulham,Coventry City,Matchweek 37
+2027-05-23,15:00,Leeds United,Sunderland,Matchweek 37
+2027-05-23,15:00,Manchester City,Aston Villa,Matchweek 37
+2027-05-23,15:00,Newcastle United,Crystal Palace,Matchweek 37
+2027-05-23,15:00,Nottingham Forest,Ipswich Town,Matchweek 37
+2027-05-23,15:00,Tottenham Hotspur,Manchester United,Matchweek 37
+2027-05-30,16:00,Arsenal,Brighton & Hove Albion,Matchweek 38
+2027-05-30,16:00,Aston Villa,Tottenham Hotspur,Matchweek 38
+2027-05-30,16:00,Chelsea,Brentford,Matchweek 38
+2027-05-30,16:00,Coventry City,Nottingham Forest,Matchweek 38
+2027-05-30,16:00,Crystal Palace,Leeds United,Matchweek 38
+2027-05-30,16:00,Hull City,Newcastle United,Matchweek 38
+2027-05-30,16:00,Ipswich Town,Everton,Matchweek 38
+2027-05-30,16:00,Liverpool,AFC Bournemouth,Matchweek 38
+2027-05-30,16:00,Manchester United,Fulham,Matchweek 38
+2027-05-30,16:00,Sunderland,Manchester City,Matchweek 38
