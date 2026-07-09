@@ -63,6 +63,7 @@ app.use('/api/standings', require('./routes/standings'));
 app.use('/api/fixtures',  require('./routes/fixtures'));
 app.use('/api/teams',     require('./routes/teams'));
 app.use('/api/players',   require('./routes/players'));
+app.use('/api/logo-aliases', require('./routes/logoAliases'));
 
 // Health check
 app.get('/', (req, res) => {
