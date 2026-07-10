@@ -185,6 +185,15 @@ async function run() {
   }
 
   console.log(`\nDone — ${created} created, ${updated} updated, ${skipped} skipped.`);
+
+  try {
+    const { computeStandingsTable } = require('./controllers/standingController');
+    await computeStandingsTable(league._id, league.season);
+    console.log(`Standings table recomputed for ${league.name} (season ${league.season}).`);
+  } catch (err) {
+    console.error('Could not recompute standings table:', err.message);
+  }
+
   process.exit(0);
 }
 

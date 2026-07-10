@@ -96,6 +96,37 @@ exports.getAdminArticles = async (req, res, next) => {
   } catch (error) { next(error); }
 };
 
+// @desc    Dashboard stats — counts by status, total views, and most-read
+// @route   GET /api/articles/admin/stats
+exports.getArticleStats = async (req, res, next) => {
+  try {
+    const query = {};
+    // Writers only see stats for their own articles, same scoping as admin/all
+    if (req.user.role === 'writer') query.author = req.user._id;
+
+    const [total, published, draft, viewsAgg, mostRead] = await Promise.all([
+      Article.countDocuments(query),
+      Article.countDocuments({ ...query, status: 'published' }),
+      Article.countDocuments({ ...query, status: 'draft' }),
+      Article.aggregate([{ $match: query }, { $group: { _id: null, totalViews: { $sum: '$views' } } }]),
+      Article.find({ ...query, status: 'published' })
+        .sort({ views: -1 })
+        .limit(5)
+        .select('title views category')
+        .populate('category', 'name'),
+    ]);
+
+    res.json({
+      success: true,
+      data: {
+        total, published, draft,
+        totalViews: viewsAgg[0]?.totalViews || 0,
+        mostRead,
+      },
+    });
+  } catch (error) { next(error); }
+};
+
 // @desc    Create article
 // @route   POST /api/articles
 exports.createArticle = async (req, res, next) => {

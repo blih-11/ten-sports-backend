@@ -1,6 +1,19 @@
 const Fixture = require('../models/Fixture');
 const League = require('../models/League');
 const Team = require('../models/Team');
+const { computeStandingsTable } = require('./standingController');
+
+// Best-effort table refresh — a fixture save should never fail because the
+// standings recompute hit a snag, so this only logs on error.
+async function refreshStandingsFor(fixture) {
+  try {
+    if (fixture?.league && fixture?.season != null) {
+      await computeStandingsTable(fixture.league, fixture.season);
+    }
+  } catch (err) {
+    console.error('[standings] auto-refresh failed:', err.message);
+  }
+}
 
 exports.getFixtures = async (req, res, next) => {
   try {
@@ -94,6 +107,7 @@ exports.getTodaysFixtures = async (req, res, next) => {
 exports.createFixture = async (req, res, next) => {
   try {
     const fixture = await Fixture.create({ ...req.body, isManual: true });
+    refreshStandingsFor(fixture);
     res.status(201).json({ success: true, data: fixture });
   } catch (err) { next(err); }
 };
@@ -102,6 +116,7 @@ exports.updateFixture = async (req, res, next) => {
   try {
     const fixture = await Fixture.findByIdAndUpdate(req.params.id, req.body, { new: true, runValidators: true });
     if (!fixture) return res.status(404).json({ success: false, message: 'Fixture not found' });
+    refreshStandingsFor(fixture);
     res.json({ success: true, data: fixture });
   } catch (err) { next(err); }
 };
