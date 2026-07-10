@@ -11,6 +11,19 @@ const articleSchema = new mongoose.Schema({
     url: { type: String, default: '' },
     publicId: { type: String, default: '' },
     alt: { type: String, default: '' },
+    // Raw embed HTML (e.g. a Getty Images iframe embed snippet). When set,
+    // the frontend renders this instead of `url` -- lets editors use
+    // licensed embeds (Getty, etc.) for a photo without ever downloading
+    // or re-hosting the image file itself. `url`/`publicId` stay empty in
+    // that case since there's no uploaded file to track.
+    embedHtml: { type: String, default: '' },
+    // Getty's embed widget can't be cropped into a small homepage/list
+    // card -- it only renders as its own full-size widget. So when
+    // embedHtml is set, this optional separate upload (a normal licensed
+    // photo, stock image, or graphic) is what card/thumbnail views show
+    // instead of leaving the card blank.
+    thumbnailUrl: { type: String, default: '' },
+    thumbnailPublicId: { type: String, default: '' },
   },
   category: { type: mongoose.Schema.Types.ObjectId, ref: 'Category', required: false },
   tags: [{ type: String, lowercase: true }],

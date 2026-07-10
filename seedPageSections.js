@@ -60,6 +60,30 @@ const PAGE_SECTIONS = {
     { sectionKey: 'seo_meta_title',     label: 'SEO Meta Title',          group: 'SEO',     type: 'text',  content: 'Contact Us — Ten Sports', order: 7 },
     { sectionKey: 'seo_meta_description', label: 'SEO Meta Description',  group: 'SEO',     type: 'text',  content: '', order: 8 },
   ],
+  // Ad + affiliate slots. Nothing here requires a redeploy to change --
+  // editors can flip ads on/off, swap the AdSense client ID, or point any
+  // slot at an affiliate banner/link straight from the admin UI.
+  //
+  // Each "slot" field is type 'json' with shape:
+  //   AdSense:   { type: 'adsense', slotId: '1234567890' }
+  //   Affiliate: { type: 'affiliate', imageUrl, linkUrl, altText, label }
+  //   Off:       { type: 'empty' }
+  monetization: [
+    { sectionKey: 'ads_enabled',           label: 'Ads Enabled (master switch)', group: 'Global',   type: 'boolean', content: false, order: 1 },
+    { sectionKey: 'adsense_client_id',     label: 'AdSense Publisher ID (ca-pub-...)', group: 'Global', type: 'text', content: '', order: 2 },
+    { sectionKey: 'responsible_gambling_note', label: 'Responsible Gambling Footer Note', group: 'Global', type: 'text',
+      content: '18+ only. Gambling can be addictive, please play responsibly. If you have a gambling problem, call the NLRC helpline or self-exclude with your operator.', order: 3 },
+    { sectionKey: 'slot_home_leaderboard',    label: 'Home — Leaderboard Slot',      group: 'Slots', type: 'json', content: { type: 'empty' }, order: 4 },
+    { sectionKey: 'slot_article_leaderboard', label: 'Article Page — In-body Leaderboard Slot', group: 'Slots', type: 'json', content: { type: 'empty' }, order: 5 },
+    { sectionKey: 'slot_article_rectangle',   label: 'Article Page — Sidebar Rectangle Slot', group: 'Slots', type: 'json', content: { type: 'empty' }, order: 6 },
+    { sectionKey: 'slot_article_square',      label: 'Article Page — Sidebar Square Slot', group: 'Slots', type: 'json', content: { type: 'empty' }, order: 7 },
+    { sectionKey: 'slot_category_leaderboard',label: 'Category Page — Leaderboard Slot', group: 'Slots', type: 'json', content: { type: 'empty' }, order: 8 },
+    { sectionKey: 'slot_category_rectangle',  label: 'Category Page — Rectangle Slot', group: 'Slots', type: 'json', content: { type: 'empty' }, order: 9 },
+    { sectionKey: 'slot_team_rectangle',      label: 'Team Page — Rectangle Slot',   group: 'Slots', type: 'json', content: { type: 'empty' }, order: 10 },
+    { sectionKey: 'slot_competition_leaderboard', label: 'Competition Page — Leaderboard Slot', group: 'Slots', type: 'json', content: { type: 'empty' }, order: 11 },
+    { sectionKey: 'slot_transfers_rectangle', label: 'Transfers Page — Rectangle Slot', group: 'Slots', type: 'json', content: { type: 'empty' }, order: 12 },
+    { sectionKey: 'slot_match_affiliate',      label: 'Match Page — Affiliate Callout', group: 'Slots', type: 'json', content: { type: 'empty' }, order: 13 },
+  ],
 };
 
 async function seedPageSections() {
