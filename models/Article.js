@@ -24,6 +24,21 @@ const articleSchema = new mongoose.Schema({
     // instead of leaving the card blank.
     thumbnailUrl: { type: String, default: '' },
     thumbnailPublicId: { type: String, default: '' },
+    // Alternative to thumbnailUrl: a small embed snippet (e.g. SmartFrame,
+    // which is responsive by design and safe at small sizes -- unlike
+    // Getty's embed, which is fixed-size and doesn't fit a card/list
+    // thumbnail). When set, the frontend renders this instead of
+    // thumbnailUrl for card/list views.
+    thumbnailEmbedHtml: { type: String, default: '' },
+  },
+  // Used ONLY for social share previews (og:image / twitter:image) -- never
+  // rendered anywhere on the site itself, including card/thumbnail views
+  // (that's what featuredImage.thumbnailUrl is for). Exists for cases where
+  // you want a dedicated image just for the Facebook/X preview card without
+  // it appearing in article listings at all.
+  socialImage: {
+    url: { type: String, default: '' },
+    publicId: { type: String, default: '' },
   },
   category: { type: mongoose.Schema.Types.ObjectId, ref: 'Category', required: false },
   tags: [{ type: String, lowercase: true }],

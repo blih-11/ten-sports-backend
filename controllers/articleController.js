@@ -174,9 +174,15 @@ exports.deleteArticle = async (req, res, next) => {
   try {
     const article = await Article.findById(req.params.id);
     if (!article) return res.status(404).json({ success: false, message: 'Article not found' });
-    // Delete image from cloudinary
+    // Delete image(s) from cloudinary
     if (article.featuredImage.publicId) {
       await cloudinary.uploader.destroy(article.featuredImage.publicId);
+    }
+    if (article.featuredImage.thumbnailPublicId) {
+      await cloudinary.uploader.destroy(article.featuredImage.thumbnailPublicId);
+    }
+    if (article.socialImage?.publicId) {
+      await cloudinary.uploader.destroy(article.socialImage.publicId);
     }
     await article.deleteOne();
     res.json({ success: true, message: 'Article deleted' });
