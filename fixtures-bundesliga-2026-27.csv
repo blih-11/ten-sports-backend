@@ -1,0 +1,307 @@
+date,time,home,away,round
+2026-08-28,,Bayern Munich,VfB Stuttgart,Matchday 1
+2026-08-30,,Borussia Dortmund,Hamburger SV,Matchday 1
+2026-08-30,,RB Leipzig,Borussia Mönchengladbach,Matchday 1
+2026-08-30,,SC Freiburg,Werder Bremen,Matchday 1
+2026-08-30,,FC Augsburg,Schalke 04,Matchday 1
+2026-08-30,,Mainz 05,SC Paderborn,Matchday 1
+2026-08-30,,Union Berlin,Eintracht Frankfurt,Matchday 1
+2026-08-30,,1. FC Köln,TSG Hoffenheim,Matchday 1
+2026-08-30,,SV Elversberg,Bayer Leverkusen,Matchday 1
+2026-09-06,,VfB Stuttgart,1. FC Köln,Matchday 2
+2026-09-06,,TSG Hoffenheim,Borussia Dortmund,Matchday 2
+2026-09-06,,Bayer Leverkusen,Union Berlin,Matchday 2
+2026-09-06,,Eintracht Frankfurt,FC Augsburg,Matchday 2
+2026-09-06,,Borussia Mönchengladbach,SV Elversberg,Matchday 2
+2026-09-06,,Hamburger SV,Mainz 05,Matchday 2
+2026-09-06,,Werder Bremen,RB Leipzig,Matchday 2
+2026-09-06,,Schalke 04,Bayern Munich,Matchday 2
+2026-09-06,,SC Paderborn,SC Freiburg,Matchday 2
+2026-09-13,,Borussia Dortmund,SC Paderborn,Matchday 3
+2026-09-13,,RB Leipzig,Hamburger SV,Matchday 3
+2026-09-13,,TSG Hoffenheim,VfB Stuttgart,Matchday 3
+2026-09-13,,SC Freiburg,Borussia Mönchengladbach,Matchday 3
+2026-09-13,,FC Augsburg,Bayer Leverkusen,Matchday 3
+2026-09-13,,Mainz 05,Eintracht Frankfurt,Matchday 3
+2026-09-13,,Union Berlin,Schalke 04,Matchday 3
+2026-09-13,,1. FC Köln,Werder Bremen,Matchday 3
+2026-09-13,,SV Elversberg,Bayern Munich,Matchday 3
+2026-09-20,,Bayern Munich,Union Berlin,Matchday 4
+2026-09-20,,VfB Stuttgart,Borussia Dortmund,Matchday 4
+2026-09-20,,Bayer Leverkusen,RB Leipzig,Matchday 4
+2026-09-20,,Eintracht Frankfurt,SC Freiburg,Matchday 4
+2026-09-20,,Borussia Mönchengladbach,Mainz 05,Matchday 4
+2026-09-20,,Hamburger SV,1. FC Köln,Matchday 4
+2026-09-20,,Werder Bremen,FC Augsburg,Matchday 4
+2026-09-20,,Schalke 04,SV Elversberg,Matchday 4
+2026-09-20,,SC Paderborn,TSG Hoffenheim,Matchday 4
+2026-10-11,,Borussia Dortmund,Werder Bremen,Matchday 5
+2026-10-11,,RB Leipzig,Eintracht Frankfurt,Matchday 5
+2026-10-11,,TSG Hoffenheim,Hamburger SV,Matchday 5
+2026-10-11,,SC Freiburg,Schalke 04,Matchday 5
+2026-10-11,,FC Augsburg,Bayern Munich,Matchday 5
+2026-10-11,,Mainz 05,Bayer Leverkusen,Matchday 5
+2026-10-11,,Union Berlin,SV Elversberg,Matchday 5
+2026-10-11,,1. FC Köln,Borussia Mönchengladbach,Matchday 5
+2026-10-11,,SC Paderborn,VfB Stuttgart,Matchday 5
+2026-10-18,,Bayern Munich,RB Leipzig,Matchday 6
+2026-10-18,,Bayer Leverkusen,SC Freiburg,Matchday 6
+2026-10-18,,Eintracht Frankfurt,1. FC Köln,Matchday 6
+2026-10-18,,Union Berlin,Borussia Dortmund,Matchday 6
+2026-10-18,,Borussia Mönchengladbach,TSG Hoffenheim,Matchday 6
+2026-10-18,,Hamburger SV,VfB Stuttgart,Matchday 6
+2026-10-18,,Werder Bremen,SC Paderborn,Matchday 6
+2026-10-18,,Schalke 04,Mainz 05,Matchday 6
+2026-10-18,,SV Elversberg,FC Augsburg,Matchday 6
+2026-10-25,,Borussia Dortmund,Eintracht Frankfurt,Matchday 7
+2026-10-25,,RB Leipzig,SV Elversberg,Matchday 7
+2026-10-25,,VfB Stuttgart,Borussia Mönchengladbach,Matchday 7
+2026-10-25,,TSG Hoffenheim,Bayer Leverkusen,Matchday 7
+2026-10-25,,SC Freiburg,Bayern Munich,Matchday 7
+2026-10-25,,FC Augsburg,Union Berlin,Matchday 7
+2026-10-25,,Mainz 05,Werder Bremen,Matchday 7
+2026-10-25,,1. FC Köln,Schalke 04,Matchday 7
+2026-10-25,,SC Paderborn,Hamburger SV,Matchday 7
+2026-11-01,,Bayern Munich,Borussia Dortmund,Matchday 8
+2026-11-01,,Bayer Leverkusen,VfB Stuttgart,Matchday 8
+2026-11-01,,Eintracht Frankfurt,Hamburger SV,Matchday 8
+2026-11-01,,FC Augsburg,SC Freiburg,Matchday 8
+2026-11-01,,Union Berlin,1. FC Köln,Matchday 8
+2026-11-01,,Borussia Mönchengladbach,SC Paderborn,Matchday 8
+2026-11-01,,Werder Bremen,TSG Hoffenheim,Matchday 8
+2026-11-01,,Schalke 04,RB Leipzig,Matchday 8
+2026-11-01,,SV Elversberg,Mainz 05,Matchday 8
+2026-11-08,,Borussia Dortmund,SV Elversberg,Matchday 9
+2026-11-08,,RB Leipzig,FC Augsburg,Matchday 9
+2026-11-08,,VfB Stuttgart,Werder Bremen,Matchday 9
+2026-11-08,,TSG Hoffenheim,Schalke 04,Matchday 9
+2026-11-08,,SC Freiburg,Union Berlin,Matchday 9
+2026-11-08,,Mainz 05,Bayern Munich,Matchday 9
+2026-11-08,,Hamburger SV,Borussia Mönchengladbach,Matchday 9
+2026-11-08,,1. FC Köln,Bayer Leverkusen,Matchday 9
+2026-11-08,,SC Paderborn,Eintracht Frankfurt,Matchday 9
+2026-11-22,,Bayern Munich,1. FC Köln,Matchday 10
+2026-11-22,,Bayer Leverkusen,SC Paderborn,Matchday 10
+2026-11-22,,Eintracht Frankfurt,TSG Hoffenheim,Matchday 10
+2026-11-22,,FC Augsburg,Mainz 05,Matchday 10
+2026-11-22,,Union Berlin,RB Leipzig,Matchday 10
+2026-11-22,,Borussia Mönchengladbach,Borussia Dortmund,Matchday 10
+2026-11-22,,Werder Bremen,Hamburger SV,Matchday 10
+2026-11-22,,Schalke 04,VfB Stuttgart,Matchday 10
+2026-11-22,,SV Elversberg,SC Freiburg,Matchday 10
+2026-11-29,,Borussia Dortmund,Bayer Leverkusen,Matchday 11
+2026-11-29,,VfB Stuttgart,Eintracht Frankfurt,Matchday 11
+2026-11-29,,TSG Hoffenheim,FC Augsburg,Matchday 11
+2026-11-29,,SC Freiburg,RB Leipzig,Matchday 11
+2026-11-29,,Mainz 05,Union Berlin,Matchday 11
+2026-11-29,,Hamburger SV,Bayern Munich,Matchday 11
+2026-11-29,,1. FC Köln,SV Elversberg,Matchday 11
+2026-11-29,,Werder Bremen,Borussia Mönchengladbach,Matchday 11
+2026-11-29,,SC Paderborn,Schalke 04,Matchday 11
+2026-12-06,,Bayern Munich,SC Paderborn,Matchday 12
+2026-12-06,,RB Leipzig,Mainz 05,Matchday 12
+2026-12-06,,Bayer Leverkusen,Borussia Mönchengladbach,Matchday 12
+2026-12-06,,SC Freiburg,TSG Hoffenheim,Matchday 12
+2026-12-06,,Eintracht Frankfurt,Werder Bremen,Matchday 12
+2026-12-06,,FC Augsburg,1. FC Köln,Matchday 12
+2026-12-06,,Union Berlin,Hamburger SV,Matchday 12
+2026-12-06,,Schalke 04,Borussia Dortmund,Matchday 12
+2026-12-06,,SV Elversberg,VfB Stuttgart,Matchday 12
+2026-12-13,,Borussia Dortmund,FC Augsburg,Matchday 13
+2026-12-13,,VfB Stuttgart,Union Berlin,Matchday 13
+2026-12-13,,TSG Hoffenheim,Bayern Munich,Matchday 13
+2026-12-13,,Mainz 05,SC Freiburg,Matchday 13
+2026-12-13,,Borussia Mönchengladbach,Eintracht Frankfurt,Matchday 13
+2026-12-13,,Hamburger SV,Schalke 04,Matchday 13
+2026-12-13,,1. FC Köln,RB Leipzig,Matchday 13
+2026-12-13,,Werder Bremen,Bayer Leverkusen,Matchday 13
+2026-12-13,,SC Paderborn,SV Elversberg,Matchday 13
+2026-12-20,,Bayern Munich,Werder Bremen,Matchday 14
+2026-12-20,,RB Leipzig,Borussia Dortmund,Matchday 14
+2026-12-20,,Bayer Leverkusen,Eintracht Frankfurt,Matchday 14
+2026-12-20,,SC Freiburg,VfB Stuttgart,Matchday 14
+2026-12-20,,FC Augsburg,SC Paderborn,Matchday 14
+2026-12-20,,Mainz 05,1. FC Köln,Matchday 14
+2026-12-20,,Union Berlin,TSG Hoffenheim,Matchday 14
+2026-12-20,,Schalke 04,Borussia Mönchengladbach,Matchday 14
+2026-12-20,,SV Elversberg,Hamburger SV,Matchday 14
+2027-01-10,,Borussia Dortmund,Mainz 05,Matchday 15
+2027-01-10,,VfB Stuttgart,FC Augsburg,Matchday 15
+2027-01-10,,TSG Hoffenheim,SV Elversberg,Matchday 15
+2027-01-10,,Eintracht Frankfurt,Schalke 04,Matchday 15
+2027-01-10,,Borussia Mönchengladbach,Bayern Munich,Matchday 15
+2027-01-10,,Hamburger SV,Bayer Leverkusen,Matchday 15
+2027-01-10,,1. FC Köln,SC Freiburg,Matchday 15
+2027-01-10,,Werder Bremen,Union Berlin,Matchday 15
+2027-01-10,,SC Paderborn,RB Leipzig,Matchday 15
+2027-01-14,,Bayern Munich,Bayer Leverkusen,Matchday 16
+2027-01-14,,RB Leipzig,VfB Stuttgart,Matchday 16
+2027-01-14,,SC Freiburg,Hamburger SV,Matchday 16
+2027-01-14,,FC Augsburg,Borussia Mönchengladbach,Matchday 16
+2027-01-14,,Mainz 05,TSG Hoffenheim,Matchday 16
+2027-01-14,,Union Berlin,SC Paderborn,Matchday 16
+2027-01-14,,1. FC Köln,Borussia Dortmund,Matchday 16
+2027-01-14,,Schalke 04,Werder Bremen,Matchday 16
+2027-01-14,,SV Elversberg,Eintracht Frankfurt,Matchday 16
+2027-01-17,,Borussia Dortmund,SC Freiburg,Matchday 17
+2027-01-17,,VfB Stuttgart,Mainz 05,Matchday 17
+2027-01-17,,TSG Hoffenheim,RB Leipzig,Matchday 17
+2027-01-17,,Bayer Leverkusen,Schalke 04,Matchday 17
+2027-01-17,,Eintracht Frankfurt,Bayern Munich,Matchday 17
+2027-01-17,,Borussia Mönchengladbach,Union Berlin,Matchday 17
+2027-01-17,,Hamburger SV,FC Augsburg,Matchday 17
+2027-01-17,,Werder Bremen,SV Elversberg,Matchday 17
+2027-01-17,,SC Paderborn,1. FC Köln,Matchday 17
+2027-01-24,,VfB Stuttgart,Bayern Munich,Matchday 18
+2027-01-24,,TSG Hoffenheim,1. FC Köln,Matchday 18
+2027-01-24,,Bayer Leverkusen,SV Elversberg,Matchday 18
+2027-01-24,,Eintracht Frankfurt,Union Berlin,Matchday 18
+2027-01-24,,Borussia Mönchengladbach,RB Leipzig,Matchday 18
+2027-01-24,,Hamburger SV,Borussia Dortmund,Matchday 18
+2027-01-24,,Werder Bremen,SC Freiburg,Matchday 18
+2027-01-24,,Schalke 04,FC Augsburg,Matchday 18
+2027-01-24,,SC Paderborn,Mainz 05,Matchday 18
+2027-01-31,,Bayern Munich,Schalke 04,Matchday 19
+2027-01-31,,Borussia Dortmund,TSG Hoffenheim,Matchday 19
+2027-01-31,,RB Leipzig,Werder Bremen,Matchday 19
+2027-01-31,,SC Freiburg,SC Paderborn,Matchday 19
+2027-01-31,,FC Augsburg,Eintracht Frankfurt,Matchday 19
+2027-01-31,,Mainz 05,Hamburger SV,Matchday 19
+2027-01-31,,Union Berlin,Bayer Leverkusen,Matchday 19
+2027-01-31,,1. FC Köln,VfB Stuttgart,Matchday 19
+2027-01-31,,SV Elversberg,Borussia Mönchengladbach,Matchday 19
+2027-02-07,,Bayern Munich,SV Elversberg,Matchday 20
+2027-02-07,,VfB Stuttgart,TSG Hoffenheim,Matchday 20
+2027-02-07,,Bayer Leverkusen,FC Augsburg,Matchday 20
+2027-02-07,,Eintracht Frankfurt,Mainz 05,Matchday 20
+2027-02-07,,Borussia Mönchengladbach,SC Freiburg,Matchday 20
+2027-02-07,,Hamburger SV,RB Leipzig,Matchday 20
+2027-02-07,,Werder Bremen,1. FC Köln,Matchday 20
+2027-02-07,,Schalke 04,Union Berlin,Matchday 20
+2027-02-07,,SC Paderborn,Borussia Dortmund,Matchday 20
+2027-02-14,,Borussia Dortmund,VfB Stuttgart,Matchday 21
+2027-02-14,,RB Leipzig,Bayer Leverkusen,Matchday 21
+2027-02-14,,TSG Hoffenheim,SC Paderborn,Matchday 21
+2027-02-14,,SC Freiburg,Eintracht Frankfurt,Matchday 21
+2027-02-14,,FC Augsburg,Werder Bremen,Matchday 21
+2027-02-14,,Mainz 05,Borussia Mönchengladbach,Matchday 21
+2027-02-14,,Union Berlin,Bayern Munich,Matchday 21
+2027-02-14,,1. FC Köln,Hamburger SV,Matchday 21
+2027-02-14,,SV Elversberg,Schalke 04,Matchday 21
+2027-02-21,,Bayern Munich,FC Augsburg,Matchday 22
+2027-02-21,,VfB Stuttgart,SC Paderborn,Matchday 22
+2027-02-21,,Bayer Leverkusen,Mainz 05,Matchday 22
+2027-02-21,,Eintracht Frankfurt,RB Leipzig,Matchday 22
+2027-02-21,,Borussia Mönchengladbach,1. FC Köln,Matchday 22
+2027-02-21,,Hamburger SV,TSG Hoffenheim,Matchday 22
+2027-02-21,,Werder Bremen,Borussia Dortmund,Matchday 22
+2027-02-21,,Schalke 04,SC Freiburg,Matchday 22
+2027-02-21,,SV Elversberg,Union Berlin,Matchday 22
+2027-02-28,,Borussia Dortmund,Union Berlin,Matchday 23
+2027-02-28,,RB Leipzig,Bayern Munich,Matchday 23
+2027-02-28,,VfB Stuttgart,Hamburger SV,Matchday 23
+2027-02-28,,TSG Hoffenheim,Borussia Mönchengladbach,Matchday 23
+2027-02-28,,SC Freiburg,Bayer Leverkusen,Matchday 23
+2027-02-28,,FC Augsburg,SV Elversberg,Matchday 23
+2027-02-28,,Mainz 05,Schalke 04,Matchday 23
+2027-02-28,,1. FC Köln,Eintracht Frankfurt,Matchday 23
+2027-02-28,,SC Paderborn,Werder Bremen,Matchday 23
+2027-03-04,,Bayern Munich,SC Freiburg,Matchday 24
+2027-03-04,,Bayer Leverkusen,TSG Hoffenheim,Matchday 24
+2027-03-04,,Eintracht Frankfurt,Borussia Dortmund,Matchday 24
+2027-03-04,,Union Berlin,FC Augsburg,Matchday 24
+2027-03-04,,Borussia Mönchengladbach,VfB Stuttgart,Matchday 24
+2027-03-04,,Hamburger SV,SC Paderborn,Matchday 24
+2027-03-04,,Werder Bremen,Mainz 05,Matchday 24
+2027-03-04,,Schalke 04,1. FC Köln,Matchday 24
+2027-03-04,,SV Elversberg,RB Leipzig,Matchday 24
+2027-03-07,,Borussia Dortmund,Bayern Munich,Matchday 25
+2027-03-07,,RB Leipzig,Schalke 04,Matchday 25
+2027-03-07,,VfB Stuttgart,Bayer Leverkusen,Matchday 25
+2027-03-07,,TSG Hoffenheim,Werder Bremen,Matchday 25
+2027-03-07,,SC Freiburg,FC Augsburg,Matchday 25
+2027-03-07,,Mainz 05,SV Elversberg,Matchday 25
+2027-03-07,,Hamburger SV,Eintracht Frankfurt,Matchday 25
+2027-03-07,,1. FC Köln,Union Berlin,Matchday 25
+2027-03-07,,SC Paderborn,Borussia Mönchengladbach,Matchday 25
+2027-03-14,,Bayern Munich,Mainz 05,Matchday 26
+2027-03-14,,Bayer Leverkusen,1. FC Köln,Matchday 26
+2027-03-14,,Eintracht Frankfurt,SC Paderborn,Matchday 26
+2027-03-14,,FC Augsburg,RB Leipzig,Matchday 26
+2027-03-14,,Union Berlin,SC Freiburg,Matchday 26
+2027-03-14,,Borussia Mönchengladbach,Hamburger SV,Matchday 26
+2027-03-14,,Werder Bremen,VfB Stuttgart,Matchday 26
+2027-03-14,,Schalke 04,TSG Hoffenheim,Matchday 26
+2027-03-14,,SV Elversberg,Borussia Dortmund,Matchday 26
+2027-03-21,,Borussia Dortmund,Borussia Mönchengladbach,Matchday 27
+2027-03-21,,RB Leipzig,Union Berlin,Matchday 27
+2027-03-21,,VfB Stuttgart,Schalke 04,Matchday 27
+2027-03-21,,TSG Hoffenheim,Eintracht Frankfurt,Matchday 27
+2027-03-21,,SC Freiburg,SV Elversberg,Matchday 27
+2027-03-21,,Mainz 05,FC Augsburg,Matchday 27
+2027-03-21,,Hamburger SV,Werder Bremen,Matchday 27
+2027-03-21,,1. FC Köln,Bayern Munich,Matchday 27
+2027-03-21,,SC Paderborn,Bayer Leverkusen,Matchday 27
+2027-04-04,,Bayern Munich,Hamburger SV,Matchday 28
+2027-04-04,,RB Leipzig,SC Freiburg,Matchday 28
+2027-04-04,,Bayer Leverkusen,Borussia Dortmund,Matchday 28
+2027-04-04,,Eintracht Frankfurt,VfB Stuttgart,Matchday 28
+2027-04-04,,FC Augsburg,TSG Hoffenheim,Matchday 28
+2027-04-04,,Union Berlin,Mainz 05,Matchday 28
+2027-04-04,,Borussia Mönchengladbach,Werder Bremen,Matchday 28
+2027-04-04,,Schalke 04,SC Paderborn,Matchday 28
+2027-04-04,,SV Elversberg,1. FC Köln,Matchday 28
+2027-04-11,,Borussia Dortmund,Schalke 04,Matchday 29
+2027-04-11,,VfB Stuttgart,SV Elversberg,Matchday 29
+2027-04-11,,TSG Hoffenheim,SC Freiburg,Matchday 29
+2027-04-11,,Mainz 05,RB Leipzig,Matchday 29
+2027-04-11,,Borussia Mönchengladbach,Bayer Leverkusen,Matchday 29
+2027-04-11,,Hamburger SV,Union Berlin,Matchday 29
+2027-04-11,,1. FC Köln,FC Augsburg,Matchday 29
+2027-04-11,,Werder Bremen,Eintracht Frankfurt,Matchday 29
+2027-04-11,,SC Paderborn,Bayern Munich,Matchday 29
+2027-04-18,,Bayern Munich,TSG Hoffenheim,Matchday 30
+2027-04-18,,RB Leipzig,1. FC Köln,Matchday 30
+2027-04-18,,Bayer Leverkusen,Werder Bremen,Matchday 30
+2027-04-18,,SC Freiburg,Mainz 05,Matchday 30
+2027-04-18,,Eintracht Frankfurt,Borussia Mönchengladbach,Matchday 30
+2027-04-18,,FC Augsburg,Borussia Dortmund,Matchday 30
+2027-04-18,,Union Berlin,VfB Stuttgart,Matchday 30
+2027-04-18,,Schalke 04,Hamburger SV,Matchday 30
+2027-04-18,,SV Elversberg,SC Paderborn,Matchday 30
+2027-04-25,,Borussia Dortmund,RB Leipzig,Matchday 31
+2027-04-25,,VfB Stuttgart,SC Freiburg,Matchday 31
+2027-04-25,,TSG Hoffenheim,Union Berlin,Matchday 31
+2027-04-25,,Eintracht Frankfurt,Bayer Leverkusen,Matchday 31
+2027-04-25,,Borussia Mönchengladbach,Schalke 04,Matchday 31
+2027-04-25,,Hamburger SV,SV Elversberg,Matchday 31
+2027-04-25,,1. FC Köln,Mainz 05,Matchday 31
+2027-04-25,,Werder Bremen,Bayern Munich,Matchday 31
+2027-04-25,,SC Paderborn,FC Augsburg,Matchday 31
+2027-05-09,,Bayern Munich,Borussia Mönchengladbach,Matchday 32
+2027-05-09,,RB Leipzig,SC Paderborn,Matchday 32
+2027-05-09,,Bayer Leverkusen,Hamburger SV,Matchday 32
+2027-05-09,,SC Freiburg,1. FC Köln,Matchday 32
+2027-05-09,,FC Augsburg,VfB Stuttgart,Matchday 32
+2027-05-09,,Mainz 05,Borussia Dortmund,Matchday 32
+2027-05-09,,Union Berlin,Werder Bremen,Matchday 32
+2027-05-09,,Schalke 04,Eintracht Frankfurt,Matchday 32
+2027-05-09,,SV Elversberg,TSG Hoffenheim,Matchday 32
+2027-05-16,,Borussia Dortmund,1. FC Köln,Matchday 33
+2027-05-16,,VfB Stuttgart,RB Leipzig,Matchday 33
+2027-05-16,,TSG Hoffenheim,Mainz 05,Matchday 33
+2027-05-16,,Bayer Leverkusen,Bayern Munich,Matchday 33
+2027-05-16,,Eintracht Frankfurt,SV Elversberg,Matchday 33
+2027-05-16,,Borussia Mönchengladbach,FC Augsburg,Matchday 33
+2027-05-16,,Hamburger SV,SC Freiburg,Matchday 33
+2027-05-16,,Werder Bremen,Schalke 04,Matchday 33
+2027-05-16,,SC Paderborn,Union Berlin,Matchday 33
+2027-05-22,,Bayern Munich,Eintracht Frankfurt,Matchday 34
+2027-05-22,,RB Leipzig,TSG Hoffenheim,Matchday 34
+2027-05-22,,SC Freiburg,Borussia Dortmund,Matchday 34
+2027-05-22,,FC Augsburg,Hamburger SV,Matchday 34
+2027-05-22,,Mainz 05,VfB Stuttgart,Matchday 34
+2027-05-22,,Union Berlin,Borussia Mönchengladbach,Matchday 34
+2027-05-22,,1. FC Köln,SC Paderborn,Matchday 34
+2027-05-22,,Schalke 04,Bayer Leverkusen,Matchday 34
+2027-05-22,,SV Elversberg,Werder Bremen,Matchday 34

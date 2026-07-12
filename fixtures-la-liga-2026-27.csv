@@ -1,0 +1,381 @@
+date,time,home,away,round
+2026-08-16,,Alavés,Getafe,Matchday 1
+2026-08-16,,Atlético Madrid,Málaga,Matchday 1
+2026-08-16,,Celta Vigo,Osasuna,Matchday 1
+2026-08-16,,Deportivo La Coruña,Elche,Matchday 1
+2026-08-16,,Espanyol,Levante,Matchday 1
+2026-08-16,,Barcelona,Athletic Bilbao,Matchday 1
+2026-08-16,,Racing Santander,Villarreal,Matchday 1
+2026-08-16,,Real Madrid,Real Sociedad,Matchday 1
+2026-08-16,,Sevilla,Rayo Vallecano,Matchday 1
+2026-08-16,,Valencia,Real Betis,Matchday 1
+2026-08-23,,Athletic Bilbao,Sevilla,Matchday 2
+2026-08-23,,Atlético Madrid,Villarreal,Matchday 2
+2026-08-23,,Real Betis,Real Sociedad,Matchday 2
+2026-08-23,,Elche,Barcelona,Matchday 2
+2026-08-23,,Espanyol,Real Madrid,Matchday 2
+2026-08-23,,Getafe,Racing Santander,Matchday 2
+2026-08-23,,Málaga,Deportivo La Coruña,Matchday 2
+2026-08-23,,Osasuna,Levante,Matchday 2
+2026-08-23,,Rayo Vallecano,Alavés,Matchday 2
+2026-08-23,,Valencia,Celta Vigo,Matchday 2
+2026-08-30,,Alavés,Villarreal,Matchday 3
+2026-08-30,,Celta Vigo,Athletic Bilbao,Matchday 3
+2026-08-30,,Deportivo La Coruña,Valencia,Matchday 3
+2026-08-30,,Barcelona,Rayo Vallecano,Matchday 3
+2026-08-30,,Levante,Real Betis,Matchday 3
+2026-08-30,,Osasuna,Getafe,Matchday 3
+2026-08-30,,Racing Santander,Elche,Matchday 3
+2026-08-30,,Real Madrid,Málaga,Matchday 3
+2026-08-30,,Real Sociedad,Espanyol,Matchday 3
+2026-08-30,,Sevilla,Atlético Madrid,Matchday 3
+2026-09-06,,Alavés,Osasuna,Matchday 4
+2026-09-06,,Athletic Bilbao,Atlético Madrid,Matchday 4
+2026-09-06,,Real Betis,Real Madrid,Matchday 4
+2026-09-06,,Elche,Real Sociedad,Matchday 4
+2026-09-06,,Espanyol,Sevilla,Matchday 4
+2026-09-06,,Getafe,Celta Vigo,Matchday 4
+2026-09-06,,Málaga,Levante,Matchday 4
+2026-09-06,,Rayo Vallecano,Racing Santander,Matchday 4
+2026-09-06,,Valencia,Barcelona,Matchday 4
+2026-09-06,,Villarreal,Deportivo La Coruña,Matchday 4
+2026-09-13,,Athletic Bilbao,Elche,Matchday 5
+2026-09-13,,Celta Vigo,Málaga,Matchday 5
+2026-09-13,,Getafe,Deportivo La Coruña,Matchday 5
+2026-09-13,,Levante,Barcelona,Matchday 5
+2026-09-13,,Osasuna,Espanyol,Matchday 5
+2026-09-13,,Racing Santander,Alavés,Matchday 5
+2026-09-13,,Real Madrid,Rayo Vallecano,Matchday 5
+2026-09-13,,Real Sociedad,Atlético Madrid,Matchday 5
+2026-09-13,,Sevilla,Valencia,Matchday 5
+2026-09-13,,Villarreal,Real Betis,Matchday 5
+2026-09-16,,Alavés,Valencia,Matchday 6
+2026-09-16,,Atlético Madrid,Osasuna,Matchday 6
+2026-09-16,,Real Betis,Getafe,Matchday 6
+2026-09-16,,Deportivo La Coruña,Sevilla,Matchday 6
+2026-09-16,,Elche,Real Madrid,Matchday 6
+2026-09-16,,Barcelona,Racing Santander,Matchday 6
+2026-09-16,,Levante,Athletic Bilbao,Matchday 6
+2026-09-16,,Málaga,Villarreal,Matchday 6
+2026-09-16,,Rayo Vallecano,Espanyol,Matchday 6
+2026-09-16,,Real Sociedad,Celta Vigo,Matchday 6
+2026-09-20,,Athletic Bilbao,Alavés,Matchday 7
+2026-09-20,,Atlético Madrid,Real Madrid,Matchday 7
+2026-09-20,,Celta Vigo,Racing Santander,Matchday 7
+2026-09-20,,Deportivo La Coruña,Real Betis,Matchday 7
+2026-09-20,,Espanyol,Elche,Matchday 7
+2026-09-20,,Getafe,Málaga,Matchday 7
+2026-09-20,,Osasuna,Rayo Vallecano,Matchday 7
+2026-09-20,,Sevilla,Barcelona,Matchday 7
+2026-09-20,,Valencia,Real Sociedad,Matchday 7
+2026-09-20,,Villarreal,Levante,Matchday 7
+2026-10-11,,Alavés,Atlético Madrid,Matchday 8
+2026-10-11,,Real Betis,Osasuna,Matchday 8
+2026-10-11,,Elche,Celta Vigo,Matchday 8
+2026-10-11,,Barcelona,Getafe,Matchday 8
+2026-10-11,,Levante,Sevilla,Matchday 8
+2026-10-11,,Málaga,Espanyol,Matchday 8
+2026-10-11,,Racing Santander,Valencia,Matchday 8
+2026-10-11,,Rayo Vallecano,Athletic Bilbao,Matchday 8
+2026-10-11,,Real Madrid,Villarreal,Matchday 8
+2026-10-11,,Real Sociedad,Deportivo La Coruña,Matchday 8
+2026-10-18,,Real Betis,Barcelona,Matchday 9
+2026-10-18,,Celta Vigo,Alavés,Matchday 9
+2026-10-18,,Deportivo La Coruña,Levante,Matchday 9
+2026-10-18,,Espanyol,Atlético Madrid,Matchday 9
+2026-10-18,,Getafe,Rayo Vallecano,Matchday 9
+2026-10-18,,Málaga,Real Sociedad,Matchday 9
+2026-10-18,,Osasuna,Racing Santander,Matchday 9
+2026-10-18,,Real Madrid,Sevilla,Matchday 9
+2026-10-18,,Valencia,Athletic Bilbao,Matchday 9
+2026-10-18,,Villarreal,Elche,Matchday 9
+2026-10-25,,Alavés,Málaga,Matchday 10
+2026-10-25,,Athletic Bilbao,Getafe,Matchday 10
+2026-10-25,,Atlético Madrid,Deportivo La Coruña,Matchday 10
+2026-10-25,,Celta Vigo,Real Betis,Matchday 10
+2026-10-25,,Barcelona,Real Madrid,Matchday 10
+2026-10-25,,Racing Santander,Espanyol,Matchday 10
+2026-10-25,,Rayo Vallecano,Elche,Matchday 10
+2026-10-25,,Real Sociedad,Levante,Matchday 10
+2026-10-25,,Sevilla,Osasuna,Matchday 10
+2026-10-25,,Valencia,Villarreal,Matchday 10
+2026-11-01,,Athletic Bilbao,Real Sociedad,Matchday 11
+2026-11-01,,Real Betis,Málaga,Matchday 11
+2026-11-01,,Deportivo La Coruña,Osasuna,Matchday 11
+2026-11-01,,Elche,Valencia,Matchday 11
+2026-11-01,,Barcelona,Alavés,Matchday 11
+2026-11-01,,Getafe,Sevilla,Matchday 11
+2026-11-01,,Levante,Atlético Madrid,Matchday 11
+2026-11-01,,Racing Santander,Real Madrid,Matchday 11
+2026-11-01,,Rayo Vallecano,Celta Vigo,Matchday 11
+2026-11-01,,Villarreal,Espanyol,Matchday 11
+2026-11-08,,Atlético Madrid,Barcelona,Matchday 12
+2026-11-08,,Celta Vigo,Levante,Matchday 12
+2026-11-08,,Elche,Real Betis,Matchday 12
+2026-11-08,,Espanyol,Deportivo La Coruña,Matchday 12
+2026-11-08,,Málaga,Racing Santander,Matchday 12
+2026-11-08,,Osasuna,Athletic Bilbao,Matchday 12
+2026-11-08,,Real Sociedad,Rayo Vallecano,Matchday 12
+2026-11-08,,Sevilla,Alavés,Matchday 12
+2026-11-08,,Valencia,Real Madrid,Matchday 12
+2026-11-08,,Villarreal,Getafe,Matchday 12
+2026-11-22,,Alavés,Deportivo La Coruña,Matchday 13
+2026-11-22,,Athletic Bilbao,Espanyol,Matchday 13
+2026-11-22,,Barcelona,Villarreal,Matchday 13
+2026-11-22,,Getafe,Atlético Madrid,Matchday 13
+2026-11-22,,Levante,Elche,Matchday 13
+2026-11-22,,Osasuna,Málaga,Matchday 13
+2026-11-22,,Racing Santander,Real Sociedad,Matchday 13
+2026-11-22,,Rayo Vallecano,Valencia,Matchday 13
+2026-11-22,,Real Madrid,Celta Vigo,Matchday 13
+2026-11-22,,Sevilla,Real Betis,Matchday 13
+2026-11-29,,Real Betis,Rayo Vallecano,Matchday 14
+2026-11-29,,Celta Vigo,Villarreal,Matchday 14
+2026-11-29,,Deportivo La Coruña,Barcelona,Matchday 14
+2026-11-29,,Elche,Atlético Madrid,Matchday 14
+2026-11-29,,Espanyol,Getafe,Matchday 14
+2026-11-29,,Levante,Racing Santander,Matchday 14
+2026-11-29,,Málaga,Athletic Bilbao,Matchday 14
+2026-11-29,,Real Madrid,Alavés,Matchday 14
+2026-11-29,,Real Sociedad,Sevilla,Matchday 14
+2026-11-29,,Valencia,Osasuna,Matchday 14
+2026-12-06,,Alavés,Espanyol,Matchday 15
+2026-12-06,,Athletic Bilbao,Real Madrid,Matchday 15
+2026-12-06,,Atlético Madrid,Real Betis,Matchday 15
+2026-12-06,,Barcelona,Celta Vigo,Matchday 15
+2026-12-06,,Getafe,Valencia,Matchday 15
+2026-12-06,,Osasuna,Elche,Matchday 15
+2026-12-06,,Racing Santander,Deportivo La Coruña,Matchday 15
+2026-12-06,,Rayo Vallecano,Levante,Matchday 15
+2026-12-06,,Sevilla,Málaga,Matchday 15
+2026-12-06,,Villarreal,Real Sociedad,Matchday 15
+2026-12-13,,Atlético Madrid,Valencia,Matchday 16
+2026-12-13,,Real Betis,Racing Santander,Matchday 16
+2026-12-13,,Deportivo La Coruña,Athletic Bilbao,Matchday 16
+2026-12-13,,Elche,Sevilla,Matchday 16
+2026-12-13,,Espanyol,Celta Vigo,Matchday 16
+2026-12-13,,Levante,Alavés,Matchday 16
+2026-12-13,,Málaga,Barcelona,Matchday 16
+2026-12-13,,Real Madrid,Osasuna,Matchday 16
+2026-12-13,,Real Sociedad,Getafe,Matchday 16
+2026-12-13,,Villarreal,Rayo Vallecano,Matchday 16
+2026-12-20,,Alavés,Elche,Matchday 17
+2026-12-20,,Athletic Bilbao,Real Betis,Matchday 17
+2026-12-20,,Celta Vigo,Atlético Madrid,Matchday 17
+2026-12-20,,Deportivo La Coruña,Real Madrid,Matchday 17
+2026-12-20,,Barcelona,Real Sociedad,Matchday 17
+2026-12-20,,Getafe,Levante,Matchday 17
+2026-12-20,,Osasuna,Villarreal,Matchday 17
+2026-12-20,,Rayo Vallecano,Málaga,Matchday 17
+2026-12-20,,Sevilla,Racing Santander,Matchday 17
+2026-12-20,,Valencia,Espanyol,Matchday 17
+2027-01-03,,Real Betis,Alavés,Matchday 18
+2027-01-03,,Celta Vigo,Deportivo La Coruña,Matchday 18
+2027-01-03,,Espanyol,Barcelona,Matchday 18
+2027-01-03,,Levante,Valencia,Matchday 18
+2027-01-03,,Málaga,Elche,Matchday 18
+2027-01-03,,Racing Santander,Athletic Bilbao,Matchday 18
+2027-01-03,,Rayo Vallecano,Atlético Madrid,Matchday 18
+2027-01-03,,Real Madrid,Getafe,Matchday 18
+2027-01-03,,Real Sociedad,Osasuna,Matchday 18
+2027-01-03,,Villarreal,Sevilla,Matchday 18
+2027-01-10,,Alavés,Real Sociedad,Matchday 19
+2027-01-10,,Athletic Bilbao,Villarreal,Matchday 19
+2027-01-10,,Atlético Madrid,Racing Santander,Matchday 19
+2027-01-10,,Deportivo La Coruña,Rayo Vallecano,Matchday 19
+2027-01-10,,Elche,Getafe,Matchday 19
+2027-01-10,,Espanyol,Real Betis,Matchday 19
+2027-01-10,,Osasuna,Barcelona,Matchday 19
+2027-01-10,,Real Madrid,Levante,Matchday 19
+2027-01-10,,Sevilla,Celta Vigo,Matchday 19
+2027-01-10,,Valencia,Málaga,Matchday 19
+2027-01-17,,Atlético Madrid,Real Sociedad,Matchday 20
+2027-01-17,,Real Betis,Deportivo La Coruña,Matchday 20
+2027-01-17,,Celta Vigo,Valencia,Matchday 20
+2027-01-17,,Barcelona,Elche,Matchday 20
+2027-01-17,,Getafe,Athletic Bilbao,Matchday 20
+2027-01-17,,Levante,Espanyol,Matchday 20
+2027-01-17,,Málaga,Real Madrid,Matchday 20
+2027-01-17,,Racing Santander,Osasuna,Matchday 20
+2027-01-17,,Rayo Vallecano,Sevilla,Matchday 20
+2027-01-17,,Villarreal,Alavés,Matchday 20
+2027-01-24,,Alavés,Barcelona,Matchday 21
+2027-01-24,,Athletic Bilbao,Levante,Matchday 21
+2027-01-24,,Deportivo La Coruña,Atlético Madrid,Matchday 21
+2027-01-24,,Elche,Rayo Vallecano,Matchday 21
+2027-01-24,,Espanyol,Villarreal,Matchday 21
+2027-01-24,,Getafe,Osasuna,Matchday 21
+2027-01-24,,Racing Santander,Celta Vigo,Matchday 21
+2027-01-24,,Real Madrid,Real Betis,Matchday 21
+2027-01-24,,Real Sociedad,Málaga,Matchday 21
+2027-01-24,,Valencia,Sevilla,Matchday 21
+2027-01-31,,Atlético Madrid,Espanyol,Matchday 22
+2027-01-31,,Real Betis,Elche,Matchday 22
+2027-01-31,,Celta Vigo,Getafe,Matchday 22
+2027-01-31,,Barcelona,Valencia,Matchday 22
+2027-01-31,,Levante,Real Sociedad,Matchday 22
+2027-01-31,,Málaga,Alavés,Matchday 22
+2027-01-31,,Osasuna,Deportivo La Coruña,Matchday 22
+2027-01-31,,Rayo Vallecano,Real Madrid,Matchday 22
+2027-01-31,,Sevilla,Athletic Bilbao,Matchday 22
+2027-01-31,,Villarreal,Racing Santander,Matchday 22
+2027-02-07,,Alavés,Celta Vigo,Matchday 23
+2027-02-07,,Athletic Bilbao,Osasuna,Matchday 23
+2027-02-07,,Real Betis,Sevilla,Matchday 23
+2027-02-07,,Deportivo La Coruña,Málaga,Matchday 23
+2027-02-07,,Elche,Levante,Matchday 23
+2027-02-07,,Espanyol,Rayo Vallecano,Matchday 23
+2027-02-07,,Barcelona,Atlético Madrid,Matchday 23
+2027-02-07,,Getafe,Villarreal,Matchday 23
+2027-02-07,,Real Sociedad,Real Madrid,Matchday 23
+2027-02-07,,Valencia,Racing Santander,Matchday 23
+2027-02-14,,Celta Vigo,Rayo Vallecano,Matchday 24
+2027-02-14,,Elche,Deportivo La Coruña,Matchday 24
+2027-02-14,,Levante,Málaga,Matchday 24
+2027-02-14,,Osasuna,Atlético Madrid,Matchday 24
+2027-02-14,,Racing Santander,Getafe,Matchday 24
+2027-02-14,,Real Madrid,Athletic Bilbao,Matchday 24
+2027-02-14,,Real Sociedad,Real Betis,Matchday 24
+2027-02-14,,Sevilla,Espanyol,Matchday 24
+2027-02-14,,Valencia,Alavés,Matchday 24
+2027-02-14,,Villarreal,Barcelona,Matchday 24
+2027-02-21,,Alavés,Racing Santander,Matchday 25
+2027-02-21,,Athletic Bilbao,Celta Vigo,Matchday 25
+2027-02-21,,Atlético Madrid,Elche,Matchday 25
+2027-02-21,,Deportivo La Coruña,Real Sociedad,Matchday 25
+2027-02-21,,Espanyol,Osasuna,Matchday 25
+2027-02-21,,Barcelona,Levante,Matchday 25
+2027-02-21,,Málaga,Real Betis,Matchday 25
+2027-02-21,,Rayo Vallecano,Getafe,Matchday 25
+2027-02-21,,Sevilla,Real Madrid,Matchday 25
+2027-02-21,,Villarreal,Valencia,Matchday 25
+2027-02-28,,Athletic Bilbao,Barcelona,Matchday 26
+2027-02-28,,Real Betis,Villarreal,Matchday 26
+2027-02-28,,Celta Vigo,Espanyol,Matchday 26
+2027-02-28,,Getafe,Alavés,Matchday 26
+2027-02-28,,Levante,Deportivo La Coruña,Matchday 26
+2027-02-28,,Málaga,Atlético Madrid,Matchday 26
+2027-02-28,,Osasuna,Sevilla,Matchday 26
+2027-02-28,,Racing Santander,Rayo Vallecano,Matchday 26
+2027-02-28,,Real Madrid,Valencia,Matchday 26
+2027-02-28,,Real Sociedad,Elche,Matchday 26
+2027-03-07,,Alavés,Athletic Bilbao,Matchday 27
+2027-03-07,,Atlético Madrid,Celta Vigo,Matchday 27
+2027-03-07,,Deportivo La Coruña,Getafe,Matchday 27
+2027-03-07,,Elche,Málaga,Matchday 27
+2027-03-07,,Espanyol,Racing Santander,Matchday 27
+2027-03-07,,Barcelona,Real Betis,Matchday 27
+2027-03-07,,Rayo Vallecano,Osasuna,Matchday 27
+2027-03-07,,Sevilla,Real Sociedad,Matchday 27
+2027-03-07,,Valencia,Levante,Matchday 27
+2027-03-07,,Villarreal,Real Madrid,Matchday 27
+2027-03-14,,Alavés,Sevilla,Matchday 28
+2027-03-14,,Athletic Bilbao,Valencia,Matchday 28
+2027-03-14,,Real Betis,Levante,Matchday 28
+2027-03-14,,Elche,Villarreal,Matchday 28
+2027-03-14,,Barcelona,Deportivo La Coruña,Matchday 28
+2027-03-14,,Getafe,Real Sociedad,Matchday 28
+2027-03-14,,Málaga,Rayo Vallecano,Matchday 28
+2027-03-14,,Osasuna,Celta Vigo,Matchday 28
+2027-03-14,,Racing Santander,Atlético Madrid,Matchday 28
+2027-03-14,,Real Madrid,Espanyol,Matchday 28
+2027-03-21,,Atlético Madrid,Getafe,Matchday 29
+2027-03-21,,Celta Vigo,Real Madrid,Matchday 29
+2027-03-21,,Espanyol,Athletic Bilbao,Matchday 29
+2027-03-21,,Levante,Osasuna,Matchday 29
+2027-03-21,,Racing Santander,Real Betis,Matchday 29
+2027-03-21,,Rayo Vallecano,Barcelona,Matchday 29
+2027-03-21,,Real Sociedad,Alavés,Matchday 29
+2027-03-21,,Sevilla,Elche,Matchday 29
+2027-03-21,,Valencia,Deportivo La Coruña,Matchday 29
+2027-03-21,,Villarreal,Málaga,Matchday 29
+2027-04-04,,Athletic Bilbao,Racing Santander,Matchday 30
+2027-04-04,,Real Betis,Celta Vigo,Matchday 30
+2027-04-04,,Deportivo La Coruña,Villarreal,Matchday 30
+2027-04-04,,Elche,Alavés,Matchday 30
+2027-04-04,,Barcelona,Sevilla,Matchday 30
+2027-04-04,,Getafe,Espanyol,Matchday 30
+2027-04-04,,Levante,Rayo Vallecano,Matchday 30
+2027-04-04,,Málaga,Osasuna,Matchday 30
+2027-04-04,,Real Madrid,Atlético Madrid,Matchday 30
+2027-04-04,,Real Sociedad,Valencia,Matchday 30
+2027-04-11,,Alavés,Real Betis,Matchday 31
+2027-04-11,,Atlético Madrid,Levante,Matchday 31
+2027-04-11,,Celta Vigo,Elche,Matchday 31
+2027-04-11,,Espanyol,Málaga,Matchday 31
+2027-04-11,,Osasuna,Real Madrid,Matchday 31
+2027-04-11,,Racing Santander,Barcelona,Matchday 31
+2027-04-11,,Rayo Vallecano,Real Sociedad,Matchday 31
+2027-04-11,,Sevilla,Deportivo La Coruña,Matchday 31
+2027-04-11,,Valencia,Getafe,Matchday 31
+2027-04-11,,Villarreal,Athletic Bilbao,Matchday 31
+2027-04-18,,Alavés,Rayo Vallecano,Matchday 32
+2027-04-18,,Atlético Madrid,Sevilla,Matchday 32
+2027-04-18,,Real Betis,Athletic Bilbao,Matchday 32
+2027-04-18,,Deportivo La Coruña,Celta Vigo,Matchday 32
+2027-04-18,,Elche,Osasuna,Matchday 32
+2027-04-18,,Barcelona,Espanyol,Matchday 32
+2027-04-18,,Getafe,Real Madrid,Matchday 32
+2027-04-18,,Levante,Villarreal,Matchday 32
+2027-04-18,,Málaga,Valencia,Matchday 32
+2027-04-18,,Real Sociedad,Racing Santander,Matchday 32
+2027-04-21,,Athletic Bilbao,Deportivo La Coruña,Matchday 33
+2027-04-21,,Celta Vigo,Barcelona,Matchday 33
+2027-04-21,,Espanyol,Real Sociedad,Matchday 33
+2027-04-21,,Getafe,Real Betis,Matchday 33
+2027-04-21,,Osasuna,Alavés,Matchday 33
+2027-04-21,,Racing Santander,Málaga,Matchday 33
+2027-04-21,,Real Madrid,Elche,Matchday 33
+2027-04-21,,Sevilla,Levante,Matchday 33
+2027-04-21,,Valencia,Rayo Vallecano,Matchday 33
+2027-04-21,,Villarreal,Atlético Madrid,Matchday 33
+2027-05-02,,Atlético Madrid,Alavés,Matchday 34
+2027-05-02,,Real Betis,Valencia,Matchday 34
+2027-05-02,,Celta Vigo,Sevilla,Matchday 34
+2027-05-02,,Deportivo La Coruña,Racing Santander,Matchday 34
+2027-05-02,,Elche,Espanyol,Matchday 34
+2027-05-02,,Barcelona,Osasuna,Matchday 34
+2027-05-02,,Levante,Real Madrid,Matchday 34
+2027-05-02,,Málaga,Getafe,Matchday 34
+2027-05-02,,Rayo Vallecano,Villarreal,Matchday 34
+2027-05-02,,Real Sociedad,Athletic Bilbao,Matchday 34
+2027-05-09,,Alavés,Levante,Matchday 35
+2027-05-09,,Athletic Bilbao,Málaga,Matchday 35
+2027-05-09,,Real Betis,Espanyol,Matchday 35
+2027-05-09,,Getafe,Elche,Matchday 35
+2027-05-09,,Osasuna,Real Sociedad,Matchday 35
+2027-05-09,,Racing Santander,Sevilla,Matchday 35
+2027-05-09,,Rayo Vallecano,Deportivo La Coruña,Matchday 35
+2027-05-09,,Real Madrid,Barcelona,Matchday 35
+2027-05-09,,Valencia,Atlético Madrid,Matchday 35
+2027-05-09,,Villarreal,Celta Vigo,Matchday 35
+2027-05-16,,Atlético Madrid,Rayo Vallecano,Matchday 36
+2027-05-16,,Deportivo La Coruña,Alavés,Matchday 36
+2027-05-16,,Elche,Athletic Bilbao,Matchday 36
+2027-05-16,,Espanyol,Valencia,Matchday 36
+2027-05-16,,Levante,Getafe,Matchday 36
+2027-05-16,,Málaga,Celta Vigo,Matchday 36
+2027-05-16,,Osasuna,Real Betis,Matchday 36
+2027-05-16,,Real Madrid,Racing Santander,Matchday 36
+2027-05-16,,Real Sociedad,Barcelona,Matchday 36
+2027-05-16,,Sevilla,Villarreal,Matchday 36
+2027-05-23,,Alavés,Real Madrid,Matchday 37
+2027-05-23,,Atlético Madrid,Athletic Bilbao,Matchday 37
+2027-05-23,,Celta Vigo,Real Sociedad,Matchday 37
+2027-05-23,,Deportivo La Coruña,Espanyol,Matchday 37
+2027-05-23,,Barcelona,Málaga,Matchday 37
+2027-05-23,,Racing Santander,Levante,Matchday 37
+2027-05-23,,Rayo Vallecano,Real Betis,Matchday 37
+2027-05-23,,Sevilla,Getafe,Matchday 37
+2027-05-23,,Valencia,Elche,Matchday 37
+2027-05-23,,Villarreal,Osasuna,Matchday 37
+2027-05-30,,Athletic Bilbao,Rayo Vallecano,Matchday 38
+2027-05-30,,Real Betis,Atlético Madrid,Matchday 38
+2027-05-30,,Elche,Racing Santander,Matchday 38
+2027-05-30,,Espanyol,Alavés,Matchday 38
+2027-05-30,,Getafe,Barcelona,Matchday 38
+2027-05-30,,Levante,Celta Vigo,Matchday 38
+2027-05-30,,Málaga,Sevilla,Matchday 38
+2027-05-30,,Osasuna,Valencia,Matchday 38
+2027-05-30,,Real Madrid,Deportivo La Coruña,Matchday 38
+2027-05-30,,Real Sociedad,Villarreal,Matchday 38

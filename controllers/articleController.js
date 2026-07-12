@@ -15,20 +15,31 @@ const ARTICLE_POPULATE = [
 // @route   GET /api/articles
 exports.getArticles = async (req, res, next) => {
   try {
-    const { category, tag, search, limit = 10, page = 1, featured, breaking } = req.query;
+    const { category, tag, search, limit = 10, page = 1, featured, breaking, sort } = req.query;
     const query = { status: 'published' };
 
     if (category) query.category = category;
     if (tag) query.tags = { $in: [tag.toLowerCase()] };
     if (featured) query.isFeatured = true;
     if (breaking) query.isBreaking = true;
-    if (search) query.$text = { $search: search };
+    // NOTE: was `query.$text = { $search: search }` — that requires a MongoDB
+    // text index which was never defined on this schema, so every search
+    // request threw and was swallowed by the frontend's .catch(), always
+    // showing "No results found". Regex match across title/excerpt/tags
+    // needs no index setup and matches the pattern already used successfully
+    // in getAdminArticles below.
+    if (search) {
+      const re = { $regex: search, $options: 'i' };
+      query.$or = [{ title: re }, { excerpt: re }, { tags: re }];
+    }
+
+    const sortOrder = sort === 'asc' ? 1 : -1;
 
     const skip = (parseInt(page) - 1) * parseInt(limit);
     const total = await Article.countDocuments(query);
     const articles = await Article.find(query)
       .populate(ARTICLE_POPULATE)
-      .sort({ publishedAt: -1 })
+      .sort({ publishedAt: sortOrder })
       .skip(skip)
       .limit(parseInt(limit));
 
@@ -290,9 +301,24 @@ exports.getHomeFeed = async (req, res, next) => {
     // in that category's recency order that hasn't already been claimed
     // above. Since an article only ever has one category, a story can
     // never show up under two different tabs either.
-    const topCategories = await Category.find({ parent: null })
-      .sort({ order: 1, name: 1 })
-      .limit(TOP_STORIES_TABS);
+    //
+    // Transfer News is always guaranteed a tab (rather than just competing
+    // for one of the TOP_STORIES_TABS slots on `order` like every other
+    // category) since it's high-traffic, recency-driven content editors
+    // want visible on the homepage regardless of where it happens to sort.
+    // NOTE: the admin's category form defaults an unset "Section" (parent)
+    // field to '' rather than null, so a category created there and left
+    // top-level is saved with parent: '' -- not parent: null like the
+    // originally-seeded sports categories. Querying only `parent: null`
+    // silently excluded any admin-created top-level category (including
+    // Transfer News) from ever getting a Top Stories tab at all.
+    const allTopLevel = await Category.find({ $or: [{ parent: null }, { parent: '' }] }).sort({ order: 1, name: 1 });
+    const transferCategory = allTopLevel.find(c => c.slug === 'transfer-news');
+    const otherCategories = allTopLevel.filter(c => c.slug !== 'transfer-news');
+    const topCategories = [
+      ...otherCategories.slice(0, TOP_STORIES_TABS - (transferCategory ? 1 : 0)),
+      ...(transferCategory ? [transferCategory] : []),
+    ];
 
     const topStoriesByCategory = [];
     for (const cat of topCategories) {

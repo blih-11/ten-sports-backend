@@ -1,0 +1,307 @@
+date,time,home,away,round
+2026-08-22,,Angers,Lille,Matchday 1
+2026-08-22,,Le Havre,Monaco,Matchday 1
+2026-08-22,,Le Mans,Brest,Matchday 1
+2026-08-22,,Lens,Auxerre,Matchday 1
+2026-08-22,,Marseille,Strasbourg,Matchday 1
+2026-08-22,,Nice,Lorient,Matchday 1
+2026-08-22,,Paris Saint-Germain,Rennes,Matchday 1
+2026-08-22,,Toulouse,Lyon,Matchday 1
+2026-08-22,,Troyes,Paris FC,Matchday 1
+2026-08-29,,Auxerre,Angers,Matchday 2
+2026-08-29,,Brest,Toulouse,Matchday 2
+2026-08-29,,Lille,Paris Saint-Germain,Matchday 2
+2026-08-29,,Lorient,Troyes,Matchday 2
+2026-08-29,,Lyon,Le Havre,Matchday 2
+2026-08-29,,Monaco,Marseille,Matchday 2
+2026-08-29,,Paris FC,Nice,Matchday 2
+2026-08-29,,Rennes,Le Mans,Matchday 2
+2026-08-29,,Strasbourg,Lens,Matchday 2
+2026-09-05,,Angers,Rennes,Matchday 3
+2026-09-05,,Le Havre,Brest,Matchday 3
+2026-09-05,,Lens,Lorient,Matchday 3
+2026-09-05,,Lyon,Auxerre,Matchday 3
+2026-09-05,,Marseille,Paris FC,Matchday 3
+2026-09-05,,Nice,Le Mans,Matchday 3
+2026-09-05,,Paris Saint-Germain,Monaco,Matchday 3
+2026-09-05,,Toulouse,Lille,Matchday 3
+2026-09-05,,Troyes,Strasbourg,Matchday 3
+2026-09-12,,Auxerre,Nice,Matchday 4
+2026-09-12,,Brest,Paris Saint-Germain,Matchday 4
+2026-09-12,,Le Havre,Angers,Matchday 4
+2026-09-12,,Le Mans,Lens,Matchday 4
+2026-09-12,,Lille,Troyes,Matchday 4
+2026-09-12,,Lorient,Toulouse,Matchday 4
+2026-09-12,,Paris FC,Lyon,Matchday 4
+2026-09-12,,Rennes,Marseille,Matchday 4
+2026-09-12,,Strasbourg,Monaco,Matchday 4
+2026-09-19,,Angers,Troyes,Matchday 5
+2026-09-19,,Auxerre,Brest,Matchday 5
+2026-09-19,,Le Mans,Lorient,Matchday 5
+2026-09-19,,Lyon,Rennes,Matchday 5
+2026-09-19,,Marseille,Paris Saint-Germain,Matchday 5
+2026-09-19,,Monaco,Lens,Matchday 5
+2026-09-19,,Nice,Lille,Matchday 5
+2026-09-19,,Paris FC,Strasbourg,Matchday 5
+2026-09-19,,Toulouse,Le Havre,Matchday 5
+2026-10-10,,Brest,Angers,Matchday 6
+2026-10-10,,Lens,Lyon,Matchday 6
+2026-10-10,,Lille,Le Havre,Matchday 6
+2026-10-10,,Lorient,Paris FC,Matchday 6
+2026-10-10,,Monaco,Toulouse,Matchday 6
+2026-10-10,,Nice,Strasbourg,Matchday 6
+2026-10-10,,Paris Saint-Germain,Le Mans,Matchday 6
+2026-10-10,,Rennes,Auxerre,Matchday 6
+2026-10-10,,Troyes,Marseille,Matchday 6
+2026-10-17,,Angers,Marseille,Matchday 7
+2026-10-17,,Le Havre,Auxerre,Matchday 7
+2026-10-17,,Le Mans,Toulouse,Matchday 7
+2026-10-17,,Lille,Brest,Matchday 7
+2026-10-17,,Lorient,Monaco,Matchday 7
+2026-10-17,,Lyon,Nice,Matchday 7
+2026-10-17,,Paris FC,Rennes,Matchday 7
+2026-10-17,,Strasbourg,Paris Saint-Germain,Matchday 7
+2026-10-17,,Troyes,Lens,Matchday 7
+2026-10-24,,Angers,Lorient,Matchday 8
+2026-10-24,,Auxerre,Le Mans,Matchday 8
+2026-10-24,,Brest,Nice,Matchday 8
+2026-10-24,,Lens,Paris FC,Matchday 8
+2026-10-24,,Marseille,Le Havre,Matchday 8
+2026-10-24,,Monaco,Lille,Matchday 8
+2026-10-24,,Paris Saint-Germain,Lyon,Matchday 8
+2026-10-24,,Rennes,Strasbourg,Matchday 8
+2026-10-24,,Toulouse,Troyes,Matchday 8
+2026-10-31,,Le Havre,Paris Saint-Germain,Matchday 9
+2026-10-31,,Lille,Lens,Matchday 9
+2026-10-31,,Lorient,Brest,Matchday 9
+2026-10-31,,Lyon,Angers,Matchday 9
+2026-10-31,,Marseille,Toulouse,Matchday 9
+2026-10-31,,Nice,Rennes,Matchday 9
+2026-10-31,,Paris FC,Monaco,Matchday 9
+2026-10-31,,Strasbourg,Auxerre,Matchday 9
+2026-10-31,,Troyes,Le Mans,Matchday 9
+2026-11-07,,Angers,Nice,Matchday 10
+2026-11-07,,Auxerre,Paris FC,Matchday 10
+2026-11-07,,Brest,Lyon,Matchday 10
+2026-11-07,,Le Havre,Lorient,Matchday 10
+2026-11-07,,Le Mans,Monaco,Matchday 10
+2026-11-07,,Lens,Marseille,Matchday 10
+2026-11-07,,Paris Saint-Germain,Troyes,Matchday 10
+2026-11-07,,Rennes,Lille,Matchday 10
+2026-11-07,,Toulouse,Strasbourg,Matchday 10
+2026-11-21,,Lens,Toulouse,Matchday 11
+2026-11-21,,Lille,Lyon,Matchday 11
+2026-11-21,,Lorient,Rennes,Matchday 11
+2026-11-21,,Marseille,Le Mans,Matchday 11
+2026-11-21,,Monaco,Auxerre,Matchday 11
+2026-11-21,,Nice,Paris Saint-Germain,Matchday 11
+2026-11-21,,Paris FC,Angers,Matchday 11
+2026-11-21,,Strasbourg,Brest,Matchday 11
+2026-11-21,,Troyes,Le Havre,Matchday 11
+2026-11-28,,Angers,Lens,Matchday 12
+2026-11-28,,Auxerre,Marseille,Matchday 12
+2026-11-28,,Brest,Paris FC,Matchday 12
+2026-11-28,,Le Havre,Strasbourg,Matchday 12
+2026-11-28,,Le Mans,Lille,Matchday 12
+2026-11-28,,Lyon,Monaco,Matchday 12
+2026-11-28,,Nice,Troyes,Matchday 12
+2026-11-28,,Paris Saint-Germain,Lorient,Matchday 12
+2026-11-28,,Toulouse,Rennes,Matchday 12
+2026-12-05,,Lens,Le Havre,Matchday 13
+2026-12-05,,Lille,Auxerre,Matchday 13
+2026-12-05,,Marseille,Nice,Matchday 13
+2026-12-05,,Monaco,Angers,Matchday 13
+2026-12-05,,Paris FC,Le Mans,Matchday 13
+2026-12-05,,Rennes,Brest,Matchday 13
+2026-12-05,,Strasbourg,Lorient,Matchday 13
+2026-12-05,,Toulouse,Paris Saint-Germain,Matchday 13
+2026-12-05,,Troyes,Lyon,Matchday 13
+2026-12-12,,Angers,Strasbourg,Matchday 14
+2026-12-12,,Auxerre,Toulouse,Matchday 14
+2026-12-12,,Brest,Troyes,Matchday 14
+2026-12-12,,Le Havre,Le Mans,Matchday 14
+2026-12-12,,Lorient,Lille,Matchday 14
+2026-12-12,,Lyon,Marseille,Matchday 14
+2026-12-12,,Nice,Lens,Matchday 14
+2026-12-12,,Paris Saint-Germain,Paris FC,Matchday 14
+2026-12-12,,Rennes,Monaco,Matchday 14
+2027-01-02,,Brest,Marseille,Matchday 15
+2027-01-02,,Le Mans,Lyon,Matchday 15
+2027-01-02,,Lens,Paris Saint-Germain,Matchday 15
+2027-01-02,,Lille,Strasbourg,Matchday 15
+2027-01-02,,Lorient,Auxerre,Matchday 15
+2027-01-02,,Monaco,Nice,Matchday 15
+2027-01-02,,Paris FC,Le Havre,Matchday 15
+2027-01-02,,Toulouse,Angers,Matchday 15
+2027-01-02,,Troyes,Rennes,Matchday 15
+2027-01-16,,Angers,Paris Saint-Germain,Matchday 16
+2027-01-16,,Auxerre,Troyes,Matchday 16
+2027-01-16,,Lyon,Lorient,Matchday 16
+2027-01-16,,Marseille,Lille,Matchday 16
+2027-01-16,,Monaco,Brest,Matchday 16
+2027-01-16,,Nice,Le Havre,Matchday 16
+2027-01-16,,Paris FC,Toulouse,Matchday 16
+2027-01-16,,Rennes,Lens,Matchday 16
+2027-01-16,,Strasbourg,Le Mans,Matchday 16
+2027-01-23,,Le Havre,Rennes,Matchday 17
+2027-01-23,,Le Mans,Angers,Matchday 17
+2027-01-23,,Lens,Brest,Matchday 17
+2027-01-23,,Lille,Paris FC,Matchday 17
+2027-01-23,,Lorient,Marseille,Matchday 17
+2027-01-23,,Paris Saint-Germain,Auxerre,Matchday 17
+2027-01-23,,Strasbourg,Lyon,Matchday 17
+2027-01-23,,Toulouse,Nice,Matchday 17
+2027-01-23,,Troyes,Monaco,Matchday 17
+2027-01-30,,Angers,Le Havre,Matchday 18
+2027-01-30,,Brest,Strasbourg,Matchday 18
+2027-01-30,,Le Mans,Nice,Matchday 18
+2027-01-30,,Lyon,Lille,Matchday 18
+2027-01-30,,Marseille,Troyes,Matchday 18
+2027-01-30,,Monaco,Paris Saint-Germain,Matchday 18
+2027-01-30,,Paris FC,Auxerre,Matchday 18
+2027-01-30,,Rennes,Lorient,Matchday 18
+2027-01-30,,Toulouse,Lens,Matchday 18
+2027-02-06,,Auxerre,Monaco,Matchday 19
+2027-02-06,,Le Havre,Toulouse,Matchday 19
+2027-02-06,,Lens,Angers,Matchday 19
+2027-02-06,,Lorient,Le Mans,Matchday 19
+2027-02-06,,Nice,Brest,Matchday 19
+2027-02-06,,Paris Saint-Germain,Marseille,Matchday 19
+2027-02-06,,Rennes,Lyon,Matchday 19
+2027-02-06,,Strasbourg,Paris FC,Matchday 19
+2027-02-06,,Troyes,Lille,Matchday 19
+2027-02-13,,Auxerre,Strasbourg,Matchday 20
+2027-02-13,,Brest,Rennes,Matchday 20
+2027-02-13,,Le Mans,Paris Saint-Germain,Matchday 20
+2027-02-13,,Lille,Nice,Matchday 20
+2027-02-13,,Lorient,Le Havre,Matchday 20
+2027-02-13,,Lyon,Lens,Matchday 20
+2027-02-13,,Marseille,Angers,Matchday 20
+2027-02-13,,Paris FC,Troyes,Matchday 20
+2027-02-13,,Toulouse,Monaco,Matchday 20
+2027-02-20,,Angers,Paris FC,Matchday 21
+2027-02-20,,Le Havre,Lyon,Matchday 21
+2027-02-20,,Lens,Troyes,Matchday 21
+2027-02-20,,Lille,Lorient,Matchday 21
+2027-02-20,,Monaco,Le Mans,Matchday 21
+2027-02-20,,Nice,Auxerre,Matchday 21
+2027-02-20,,Paris Saint-Germain,Brest,Matchday 21
+2027-02-20,,Rennes,Toulouse,Matchday 21
+2027-02-20,,Strasbourg,Marseille,Matchday 21
+2027-02-27,,Auxerre,Lille,Matchday 22
+2027-02-27,,Brest,Monaco,Matchday 22
+2027-02-27,,Le Mans,Paris FC,Matchday 22
+2027-02-27,,Lorient,Angers,Matchday 22
+2027-02-27,,Lyon,Toulouse,Matchday 22
+2027-02-27,,Marseille,Rennes,Matchday 22
+2027-02-27,,Paris Saint-Germain,Lens,Matchday 22
+2027-02-27,,Strasbourg,Le Havre,Matchday 22
+2027-02-27,,Troyes,Nice,Matchday 22
+2027-03-06,,Angers,Auxerre,Matchday 23
+2027-03-06,,Le Havre,Nice,Matchday 23
+2027-03-06,,Lens,Strasbourg,Matchday 23
+2027-03-06,,Lille,Marseille,Matchday 23
+2027-03-06,,Monaco,Lyon,Matchday 23
+2027-03-06,,Paris FC,Brest,Matchday 23
+2027-03-06,,Rennes,Paris Saint-Germain,Matchday 23
+2027-03-06,,Toulouse,Le Mans,Matchday 23
+2027-03-06,,Troyes,Lorient,Matchday 23
+2027-03-13,,Auxerre,Paris Saint-Germain,Matchday 24
+2027-03-13,,Brest,Lille,Matchday 24
+2027-03-13,,Le Havre,Lens,Matchday 24
+2027-03-13,,Le Mans,Rennes,Matchday 24
+2027-03-13,,Lyon,Troyes,Matchday 24
+2027-03-13,,Marseille,Monaco,Matchday 24
+2027-03-13,,Nice,Toulouse,Matchday 24
+2027-03-13,,Paris FC,Lorient,Matchday 24
+2027-03-13,,Strasbourg,Angers,Matchday 24
+2027-03-20,,Angers,Le Mans,Matchday 25
+2027-03-20,,Lens,Lille,Matchday 25
+2027-03-20,,Lorient,Nice,Matchday 25
+2027-03-20,,Marseille,Lyon,Matchday 25
+2027-03-20,,Monaco,Le Havre,Matchday 25
+2027-03-20,,Paris Saint-Germain,Strasbourg,Matchday 25
+2027-03-20,,Rennes,Paris FC,Matchday 25
+2027-03-20,,Toulouse,Brest,Matchday 25
+2027-03-20,,Troyes,Auxerre,Matchday 25
+2027-04-03,,Angers,Monaco,Matchday 26
+2027-04-03,,Auxerre,Lens,Matchday 26
+2027-04-03,,Brest,Lorient,Matchday 26
+2027-04-03,,Le Havre,Troyes,Matchday 26
+2027-04-03,,Le Mans,Marseille,Matchday 26
+2027-04-03,,Lille,Rennes,Matchday 26
+2027-04-03,,Nice,Lyon,Matchday 26
+2027-04-03,,Paris FC,Paris Saint-Germain,Matchday 26
+2027-04-03,,Strasbourg,Toulouse,Matchday 26
+2027-04-10,,Le Mans,Auxerre,Matchday 27
+2027-04-10,,Lille,Toulouse,Matchday 27
+2027-04-10,,Lorient,Lens,Matchday 27
+2027-04-10,,Lyon,Strasbourg,Matchday 27
+2027-04-10,,Marseille,Brest,Matchday 27
+2027-04-10,,Monaco,Rennes,Matchday 27
+2027-04-10,,Nice,Paris FC,Matchday 27
+2027-04-10,,Paris Saint-Germain,Le Havre,Matchday 27
+2027-04-10,,Troyes,Angers,Matchday 27
+2027-04-17,,Angers,Lyon,Matchday 28
+2027-04-17,,Auxerre,Lorient,Matchday 28
+2027-04-17,,Brest,Le Mans,Matchday 28
+2027-04-17,,Le Havre,Marseille,Matchday 28
+2027-04-17,,Lens,Nice,Matchday 28
+2027-04-17,,Monaco,Strasbourg,Matchday 28
+2027-04-17,,Paris Saint-Germain,Lille,Matchday 28
+2027-04-17,,Rennes,Troyes,Matchday 28
+2027-04-17,,Toulouse,Paris FC,Matchday 28
+2027-04-24,,Le Mans,Le Havre,Matchday 29
+2027-04-24,,Lille,Monaco,Matchday 29
+2027-04-24,,Lorient,Paris Saint-Germain,Matchday 29
+2027-04-24,,Lyon,Brest,Matchday 29
+2027-04-24,,Marseille,Auxerre,Matchday 29
+2027-04-24,,Nice,Angers,Matchday 29
+2027-04-24,,Paris FC,Lens,Matchday 29
+2027-04-24,,Strasbourg,Rennes,Matchday 29
+2027-04-24,,Troyes,Toulouse,Matchday 29
+2027-05-01,,Auxerre,Lyon,Matchday 30
+2027-05-01,,Le Havre,Paris FC,Matchday 30
+2027-05-01,,Lens,Le Mans,Matchday 30
+2027-05-01,,Monaco,Lorient,Matchday 30
+2027-05-01,,Paris Saint-Germain,Angers,Matchday 30
+2027-05-01,,Rennes,Nice,Matchday 30
+2027-05-01,,Strasbourg,Lille,Matchday 30
+2027-05-01,,Toulouse,Marseille,Matchday 30
+2027-05-01,,Troyes,Brest,Matchday 30
+2027-05-08,,Angers,Toulouse,Matchday 31
+2027-05-08,,Brest,Auxerre,Matchday 31
+2027-05-08,,Le Mans,Troyes,Matchday 31
+2027-05-08,,Lens,Monaco,Matchday 31
+2027-05-08,,Lorient,Strasbourg,Matchday 31
+2027-05-08,,Lyon,Paris Saint-Germain,Matchday 31
+2027-05-08,,Nice,Marseille,Matchday 31
+2027-05-08,,Paris FC,Lille,Matchday 31
+2027-05-08,,Rennes,Le Havre,Matchday 31
+2027-05-16,,Auxerre,Rennes,Matchday 32
+2027-05-16,,Brest,Le Havre,Matchday 32
+2027-05-16,,Lille,Angers,Matchday 32
+2027-05-16,,Lyon,Le Mans,Matchday 32
+2027-05-16,,Marseille,Lens,Matchday 32
+2027-05-16,,Monaco,Paris FC,Matchday 32
+2027-05-16,,Paris Saint-Germain,Nice,Matchday 32
+2027-05-16,,Strasbourg,Troyes,Matchday 32
+2027-05-16,,Toulouse,Lorient,Matchday 32
+2027-05-22,,Angers,Brest,Matchday 33
+2027-05-22,,Le Havre,Lille,Matchday 33
+2027-05-22,,Le Mans,Strasbourg,Matchday 33
+2027-05-22,,Lens,Rennes,Matchday 33
+2027-05-22,,Lorient,Lyon,Matchday 33
+2027-05-22,,Nice,Monaco,Matchday 33
+2027-05-22,,Paris FC,Marseille,Matchday 33
+2027-05-22,,Toulouse,Auxerre,Matchday 33
+2027-05-22,,Troyes,Paris Saint-Germain,Matchday 33
+2027-05-29,,Auxerre,Le Havre,Matchday 34
+2027-05-29,,Brest,Lens,Matchday 34
+2027-05-29,,Lille,Le Mans,Matchday 34
+2027-05-29,,Lyon,Paris FC,Matchday 34
+2027-05-29,,Marseille,Lorient,Matchday 34
+2027-05-29,,Monaco,Troyes,Matchday 34
+2027-05-29,,Paris Saint-Germain,Toulouse,Matchday 34
+2027-05-29,,Rennes,Angers,Matchday 34
+2027-05-29,,Strasbourg,Nice,Matchday 34

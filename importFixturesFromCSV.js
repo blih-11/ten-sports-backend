@@ -170,7 +170,7 @@ async function run() {
     };
 
     const result = await Fixture.findOneAndUpdate(
-      { league: league._id, season: league.season, 'homeTeam.name': canonicalHome, 'awayTeam.name': canonicalAway, date, isManual: true },
+      { league: league._id, season: league.season, 'homeTeam.name': canonicalHome, 'awayTeam.name': canonicalAway, isManual: true },
       { $set: doc },
       { upsert: true, new: true, rawResult: true }
     );
@@ -185,15 +185,6 @@ async function run() {
   }
 
   console.log(`\nDone — ${created} created, ${updated} updated, ${skipped} skipped.`);
-
-  try {
-    const { computeStandingsTable } = require('./controllers/standingController');
-    await computeStandingsTable(league._id, league.season);
-    console.log(`Standings table recomputed for ${league.name} (season ${league.season}).`);
-  } catch (err) {
-    console.error('Could not recompute standings table:', err.message);
-  }
-
   process.exit(0);
 }
 

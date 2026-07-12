@@ -1,0 +1,381 @@
+date,time,home,away,round
+2026-08-23,,Atalanta,Sassuolo,Matchday 1
+2026-08-23,,Bologna,Lazio,Matchday 1
+2026-08-23,,Frosinone,Juventus,Matchday 1
+2026-08-23,,Genoa,Napoli,Matchday 1
+2026-08-23,,Inter Milan,Monza,Matchday 1
+2026-08-23,,Parma,Cagliari,Matchday 1
+2026-08-23,,Roma,Fiorentina,Matchday 1
+2026-08-23,,Torino,AC Milan,Matchday 1
+2026-08-23,,Udinese,Como,Matchday 1
+2026-08-23,,Venezia,Lecce,Matchday 1
+2026-08-30,,Atalanta,Bologna,Matchday 2
+2026-08-30,,Cagliari,Inter Milan,Matchday 2
+2026-08-30,,Fiorentina,Frosinone,Matchday 2
+2026-08-30,,Juventus,Parma,Matchday 2
+2026-08-30,,Lazio,Genoa,Matchday 2
+2026-08-30,,Lecce,Roma,Matchday 2
+2026-08-30,,AC Milan,Venezia,Matchday 2
+2026-08-30,,Monza,Udinese,Matchday 2
+2026-08-30,,Napoli,Como,Matchday 2
+2026-08-30,,Sassuolo,Torino,Matchday 2
+2026-09-06,,Bologna,Sassuolo,Matchday 3
+2026-09-06,,Cagliari,Lecce,Matchday 3
+2026-09-06,,Fiorentina,Torino,Matchday 3
+2026-09-06,,Frosinone,Venezia,Matchday 3
+2026-09-06,,Genoa,Como,Matchday 3
+2026-09-06,,Inter Milan,Napoli,Matchday 3
+2026-09-06,,Juventus,AC Milan,Matchday 3
+2026-09-06,,Parma,Monza,Matchday 3
+2026-09-06,,Roma,Atalanta,Matchday 3
+2026-09-06,,Udinese,Lazio,Matchday 3
+2026-09-13,,Atalanta,Cagliari,Matchday 4
+2026-09-13,,Como,Parma,Matchday 4
+2026-09-13,,Genoa,Frosinone,Matchday 4
+2026-09-13,,Inter Milan,Udinese,Matchday 4
+2026-09-13,,Lazio,AC Milan,Matchday 4
+2026-09-13,,Lecce,Monza,Matchday 4
+2026-09-13,,Napoli,Bologna,Matchday 4
+2026-09-13,,Sassuolo,Juventus,Matchday 4
+2026-09-13,,Torino,Roma,Matchday 4
+2026-09-13,,Venezia,Fiorentina,Matchday 4
+2026-09-20,,Bologna,Torino,Matchday 5
+2026-09-20,,Fiorentina,Napoli,Matchday 5
+2026-09-20,,Frosinone,Como,Matchday 5
+2026-09-20,,Juventus,Atalanta,Matchday 5
+2026-09-20,,AC Milan,Lecce,Matchday 5
+2026-09-20,,Monza,Sassuolo,Matchday 5
+2026-09-20,,Parma,Genoa,Matchday 5
+2026-09-20,,Roma,Inter Milan,Matchday 5
+2026-09-20,,Udinese,Cagliari,Matchday 5
+2026-09-20,,Venezia,Lazio,Matchday 5
+2026-10-11,,Atalanta,Venezia,Matchday 6
+2026-10-11,,Cagliari,Juventus,Matchday 6
+2026-10-11,,Como,Roma,Matchday 6
+2026-10-11,,Genoa,Fiorentina,Matchday 6
+2026-10-11,,Inter Milan,Parma,Matchday 6
+2026-10-11,,Lazio,Monza,Matchday 6
+2026-10-11,,Lecce,Bologna,Matchday 6
+2026-10-11,,Napoli,Frosinone,Matchday 6
+2026-10-11,,Sassuolo,AC Milan,Matchday 6
+2026-10-11,,Torino,Udinese,Matchday 6
+2026-10-18,,Bologna,Inter Milan,Matchday 7
+2026-10-18,,Fiorentina,Como,Matchday 7
+2026-10-18,,Frosinone,Sassuolo,Matchday 7
+2026-10-18,,Juventus,Lazio,Matchday 7
+2026-10-18,,AC Milan,Atalanta,Matchday 7
+2026-10-18,,Monza,Cagliari,Matchday 7
+2026-10-18,,Parma,Torino,Matchday 7
+2026-10-18,,Roma,Genoa,Matchday 7
+2026-10-18,,Udinese,Lecce,Matchday 7
+2026-10-18,,Venezia,Napoli,Matchday 7
+2026-10-25,,Atalanta,Frosinone,Matchday 8
+2026-10-25,,Cagliari,Bologna,Matchday 8
+2026-10-25,,Como,Sassuolo,Matchday 8
+2026-10-25,,Genoa,Venezia,Matchday 8
+2026-10-25,,Inter Milan,Fiorentina,Matchday 8
+2026-10-25,,Lazio,Parma,Matchday 8
+2026-10-25,,Lecce,Juventus,Matchday 8
+2026-10-25,,Napoli,Roma,Matchday 8
+2026-10-25,,Torino,Monza,Matchday 8
+2026-10-25,,Udinese,AC Milan,Matchday 8
+2026-10-28,,Fiorentina,Atalanta,Matchday 9
+2026-10-28,,Frosinone,Lecce,Matchday 9
+2026-10-28,,Genoa,Juventus,Matchday 9
+2026-10-28,,AC Milan,Bologna,Matchday 9
+2026-10-28,,Monza,Napoli,Matchday 9
+2026-10-28,,Parma,Udinese,Matchday 9
+2026-10-28,,Roma,Cagliari,Matchday 9
+2026-10-28,,Sassuolo,Lazio,Matchday 9
+2026-10-28,,Torino,Como,Matchday 9
+2026-10-28,,Venezia,Inter Milan,Matchday 9
+2026-11-01,,Atalanta,Parma,Matchday 10
+2026-11-01,,Bologna,Monza,Matchday 10
+2026-11-01,,Como,Venezia,Matchday 10
+2026-11-01,,Frosinone,Torino,Matchday 10
+2026-11-01,,Juventus,Napoli,Matchday 10
+2026-11-01,,Lazio,Cagliari,Matchday 10
+2026-11-01,,Lecce,Genoa,Matchday 10
+2026-11-01,,AC Milan,Inter Milan,Matchday 10
+2026-11-01,,Sassuolo,Fiorentina,Matchday 10
+2026-11-01,,Udinese,Roma,Matchday 10
+2026-11-08,,Cagliari,Frosinone,Matchday 11
+2026-11-08,,Fiorentina,Juventus,Matchday 11
+2026-11-08,,Genoa,AC Milan,Matchday 11
+2026-11-08,,Inter Milan,Como,Matchday 11
+2026-11-08,,Monza,Atalanta,Matchday 11
+2026-11-08,,Napoli,Lazio,Matchday 11
+2026-11-08,,Parma,Bologna,Matchday 11
+2026-11-08,,Roma,Sassuolo,Matchday 11
+2026-11-08,,Torino,Lecce,Matchday 11
+2026-11-08,,Venezia,Udinese,Matchday 11
+2026-11-22,,Atalanta,Inter Milan,Matchday 12
+2026-11-22,,Bologna,Udinese,Matchday 12
+2026-11-22,,Como,Cagliari,Matchday 12
+2026-11-22,,Juventus,Venezia,Matchday 12
+2026-11-22,,Lazio,Lecce,Matchday 12
+2026-11-22,,AC Milan,Frosinone,Matchday 12
+2026-11-22,,Monza,Fiorentina,Matchday 12
+2026-11-22,,Napoli,Torino,Matchday 12
+2026-11-22,,Parma,Roma,Matchday 12
+2026-11-22,,Sassuolo,Genoa,Matchday 12
+2026-11-29,,Cagliari,AC Milan,Matchday 13
+2026-11-29,,Como,Juventus,Matchday 13
+2026-11-29,,Frosinone,Parma,Matchday 13
+2026-11-29,,Inter Milan,Genoa,Matchday 13
+2026-11-29,,Lecce,Atalanta,Matchday 13
+2026-11-29,,Roma,Monza,Matchday 13
+2026-11-29,,Sassuolo,Napoli,Matchday 13
+2026-11-29,,Torino,Lazio,Matchday 13
+2026-11-29,,Udinese,Fiorentina,Matchday 13
+2026-11-29,,Venezia,Bologna,Matchday 13
+2026-12-06,,Bologna,Roma,Matchday 14
+2026-12-06,,Fiorentina,Cagliari,Matchday 14
+2026-12-06,,Frosinone,Inter Milan,Matchday 14
+2026-12-06,,Genoa,Torino,Matchday 14
+2026-12-06,,Juventus,Udinese,Matchday 14
+2026-12-06,,Lazio,Atalanta,Matchday 14
+2026-12-06,,AC Milan,Parma,Matchday 14
+2026-12-06,,Monza,Como,Matchday 14
+2026-12-06,,Napoli,Lecce,Matchday 14
+2026-12-06,,Venezia,Sassuolo,Matchday 14
+2026-12-13,,Atalanta,Genoa,Matchday 15
+2026-12-13,,Cagliari,Venezia,Matchday 15
+2026-12-13,,Como,Bologna,Matchday 15
+2026-12-13,,Inter Milan,Torino,Matchday 15
+2026-12-13,,Juventus,Monza,Matchday 15
+2026-12-13,,Lazio,Roma,Matchday 15
+2026-12-13,,Lecce,Sassuolo,Matchday 15
+2026-12-13,,Napoli,AC Milan,Matchday 15
+2026-12-13,,Parma,Fiorentina,Matchday 15
+2026-12-13,,Udinese,Frosinone,Matchday 15
+2026-12-20,,Atalanta,Napoli,Matchday 16
+2026-12-20,,Fiorentina,Bologna,Matchday 16
+2026-12-20,,Frosinone,Lazio,Matchday 16
+2026-12-20,,Genoa,Udinese,Matchday 16
+2026-12-20,,Lecce,Inter Milan,Matchday 16
+2026-12-20,,AC Milan,Como,Matchday 16
+2026-12-20,,Roma,Juventus,Matchday 16
+2026-12-20,,Sassuolo,Parma,Matchday 16
+2026-12-20,,Torino,Cagliari,Matchday 16
+2026-12-20,,Venezia,Monza,Matchday 16
+2027-01-03,,Bologna,Juventus,Matchday 17
+2027-01-03,,Cagliari,Genoa,Matchday 17
+2027-01-03,,Como,Lecce,Matchday 17
+2027-01-03,,Fiorentina,Lazio,Matchday 17
+2027-01-03,,Inter Milan,Sassuolo,Matchday 17
+2027-01-03,,Monza,AC Milan,Matchday 17
+2027-01-03,,Parma,Napoli,Matchday 17
+2027-01-03,,Roma,Frosinone,Matchday 17
+2027-01-03,,Torino,Venezia,Matchday 17
+2027-01-03,,Udinese,Atalanta,Matchday 17
+2027-01-06,,Atalanta,Como,Matchday 18
+2027-01-06,,Frosinone,Bologna,Matchday 18
+2027-01-06,,Genoa,Monza,Matchday 18
+2027-01-06,,Juventus,Torino,Matchday 18
+2027-01-06,,Lazio,Inter Milan,Matchday 18
+2027-01-06,,Lecce,Parma,Matchday 18
+2027-01-06,,AC Milan,Fiorentina,Matchday 18
+2027-01-06,,Napoli,Cagliari,Matchday 18
+2027-01-06,,Sassuolo,Udinese,Matchday 18
+2027-01-06,,Venezia,Roma,Matchday 18
+2027-01-10,,Bologna,Genoa,Matchday 19
+2027-01-10,,Cagliari,Sassuolo,Matchday 19
+2027-01-10,,Como,Lazio,Matchday 19
+2027-01-10,,Fiorentina,Lecce,Matchday 19
+2027-01-10,,Inter Milan,Juventus,Matchday 19
+2027-01-10,,Monza,Frosinone,Matchday 19
+2027-01-10,,Parma,Venezia,Matchday 19
+2027-01-10,,Roma,AC Milan,Matchday 19
+2027-01-10,,Torino,Atalanta,Matchday 19
+2027-01-10,,Udinese,Napoli,Matchday 19
+2027-01-17,,Atalanta,Roma,Matchday 20
+2027-01-17,,Cagliari,Como,Matchday 20
+2027-01-17,,Juventus,Genoa,Matchday 20
+2027-01-17,,Lazio,Bologna,Matchday 20
+2027-01-17,,Lecce,Udinese,Matchday 20
+2027-01-17,,AC Milan,Torino,Matchday 20
+2027-01-17,,Napoli,Fiorentina,Matchday 20
+2027-01-17,,Parma,Inter Milan,Matchday 20
+2027-01-17,,Sassuolo,Monza,Matchday 20
+2027-01-17,,Venezia,Frosinone,Matchday 20
+2027-01-24,,Bologna,Atalanta,Matchday 21
+2027-01-24,,Como,Napoli,Matchday 21
+2027-01-24,,Fiorentina,Sassuolo,Matchday 21
+2027-01-24,,Frosinone,AC Milan,Matchday 21
+2027-01-24,,Genoa,Parma,Matchday 21
+2027-01-24,,Inter Milan,Venezia,Matchday 21
+2027-01-24,,Juventus,Cagliari,Matchday 21
+2027-01-24,,Lecce,Torino,Matchday 21
+2027-01-24,,Monza,Lazio,Matchday 21
+2027-01-24,,Roma,Udinese,Matchday 21
+2027-01-31,,Atalanta,Fiorentina,Matchday 22
+2027-01-31,,Cagliari,Parma,Matchday 22
+2027-01-31,,Genoa,Lecce,Matchday 22
+2027-01-31,,Lazio,Venezia,Matchday 22
+2027-01-31,,AC Milan,Juventus,Matchday 22
+2027-01-31,,Monza,Roma,Matchday 22
+2027-01-31,,Napoli,Inter Milan,Matchday 22
+2027-01-31,,Sassuolo,Como,Matchday 22
+2027-01-31,,Torino,Frosinone,Matchday 22
+2027-01-31,,Udinese,Bologna,Matchday 22
+2027-02-07,,Atalanta,Lazio,Matchday 23
+2027-02-07,,Bologna,AC Milan,Matchday 23
+2027-02-07,,Como,Monza,Matchday 23
+2027-02-07,,Fiorentina,Udinese,Matchday 23
+2027-02-07,,Inter Milan,Cagliari,Matchday 23
+2027-02-07,,Juventus,Sassuolo,Matchday 23
+2027-02-07,,Lecce,Napoli,Matchday 23
+2027-02-07,,Parma,Frosinone,Matchday 23
+2027-02-07,,Roma,Torino,Matchday 23
+2027-02-07,,Venezia,Genoa,Matchday 23
+2027-02-14,,Bologna,Como,Matchday 24
+2027-02-14,,Cagliari,Lazio,Matchday 24
+2027-02-14,,Frosinone,Fiorentina,Matchday 24
+2027-02-14,,Genoa,Atalanta,Matchday 24
+2027-02-14,,Inter Milan,AC Milan,Matchday 24
+2027-02-14,,Monza,Lecce,Matchday 24
+2027-02-14,,Napoli,Juventus,Matchday 24
+2027-02-14,,Roma,Parma,Matchday 24
+2027-02-14,,Torino,Sassuolo,Matchday 24
+2027-02-14,,Udinese,Venezia,Matchday 24
+2027-02-21,,Atalanta,Monza,Matchday 25
+2027-02-21,,Como,Torino,Matchday 25
+2027-02-21,,Fiorentina,Inter Milan,Matchday 25
+2027-02-21,,Juventus,Bologna,Matchday 25
+2027-02-21,,Lazio,Napoli,Matchday 25
+2027-02-21,,Lecce,Frosinone,Matchday 25
+2027-02-21,,AC Milan,Genoa,Matchday 25
+2027-02-21,,Sassuolo,Roma,Matchday 25
+2027-02-21,,Udinese,Parma,Matchday 25
+2027-02-21,,Venezia,Cagliari,Matchday 25
+2027-02-28,,Bologna,Lecce,Matchday 26
+2027-02-28,,Cagliari,Udinese,Matchday 26
+2027-02-28,,Como,AC Milan,Matchday 26
+2027-02-28,,Frosinone,Napoli,Matchday 26
+2027-02-28,,Genoa,Lazio,Matchday 26
+2027-02-28,,Inter Milan,Atalanta,Matchday 26
+2027-02-28,,Monza,Juventus,Matchday 26
+2027-02-28,,Parma,Sassuolo,Matchday 26
+2027-02-28,,Roma,Venezia,Matchday 26
+2027-02-28,,Torino,Fiorentina,Matchday 26
+2027-03-07,,Atalanta,Torino,Matchday 27
+2027-03-07,,Fiorentina,Venezia,Matchday 27
+2027-03-07,,Juventus,Roma,Matchday 27
+2027-03-07,,Lazio,Frosinone,Matchday 27
+2027-03-07,,Lecce,Como,Matchday 27
+2027-03-07,,AC Milan,Cagliari,Matchday 27
+2027-03-07,,Monza,Genoa,Matchday 27
+2027-03-07,,Napoli,Parma,Matchday 27
+2027-03-07,,Sassuolo,Bologna,Matchday 27
+2027-03-07,,Udinese,Inter Milan,Matchday 27
+2027-03-14,,Bologna,Napoli,Matchday 28
+2027-03-14,,Cagliari,Fiorentina,Matchday 28
+2027-03-14,,Como,Udinese,Matchday 28
+2027-03-14,,Frosinone,Monza,Matchday 28
+2027-03-14,,Genoa,Roma,Matchday 28
+2027-03-14,,Lazio,Juventus,Matchday 28
+2027-03-14,,AC Milan,Sassuolo,Matchday 28
+2027-03-14,,Parma,Lecce,Matchday 28
+2027-03-14,,Torino,Inter Milan,Matchday 28
+2027-03-14,,Venezia,Atalanta,Matchday 28
+2027-03-21,,Atalanta,AC Milan,Matchday 29
+2027-03-21,,Fiorentina,Genoa,Matchday 29
+2027-03-21,,Inter Milan,Frosinone,Matchday 29
+2027-03-21,,Juventus,Como,Matchday 29
+2027-03-21,,Monza,Bologna,Matchday 29
+2027-03-21,,Napoli,Venezia,Matchday 29
+2027-03-21,,Parma,Lazio,Matchday 29
+2027-03-21,,Roma,Lecce,Matchday 29
+2027-03-21,,Sassuolo,Cagliari,Matchday 29
+2027-03-21,,Udinese,Torino,Matchday 29
+2027-04-04,,Cagliari,Napoli,Matchday 30
+2027-04-04,,Como,Fiorentina,Matchday 30
+2027-04-04,,Frosinone,Udinese,Matchday 30
+2027-04-04,,Genoa,Inter Milan,Matchday 30
+2027-04-04,,Lecce,Lazio,Matchday 30
+2027-04-04,,AC Milan,Monza,Matchday 30
+2027-04-04,,Roma,Bologna,Matchday 30
+2027-04-04,,Sassuolo,Atalanta,Matchday 30
+2027-04-04,,Torino,Juventus,Matchday 30
+2027-04-04,,Venezia,Parma,Matchday 30
+2027-04-11,,Bologna,Venezia,Matchday 31
+2027-04-11,,Cagliari,Atalanta,Matchday 31
+2027-04-11,,Fiorentina,AC Milan,Matchday 31
+2027-04-11,,Frosinone,Genoa,Matchday 31
+2027-04-11,,Inter Milan,Roma,Matchday 31
+2027-04-11,,Juventus,Lecce,Matchday 31
+2027-04-11,,Lazio,Torino,Matchday 31
+2027-04-11,,Napoli,Sassuolo,Matchday 31
+2027-04-11,,Parma,Como,Matchday 31
+2027-04-11,,Udinese,Monza,Matchday 31
+2027-04-18,,Atalanta,Udinese,Matchday 32
+2027-04-18,,Bologna,Cagliari,Matchday 32
+2027-04-18,,Como,Frosinone,Matchday 32
+2027-04-18,,Fiorentina,Parma,Matchday 32
+2027-04-18,,AC Milan,Napoli,Matchday 32
+2027-04-18,,Monza,Inter Milan,Matchday 32
+2027-04-18,,Roma,Lazio,Matchday 32
+2027-04-18,,Sassuolo,Lecce,Matchday 32
+2027-04-18,,Torino,Genoa,Matchday 32
+2027-04-18,,Venezia,Juventus,Matchday 32
+2027-04-25,,Cagliari,Monza,Matchday 33
+2027-04-25,,Frosinone,Roma,Matchday 33
+2027-04-25,,Genoa,Sassuolo,Matchday 33
+2027-04-25,,Inter Milan,Bologna,Matchday 33
+2027-04-25,,Juventus,Fiorentina,Matchday 33
+2027-04-25,,Lazio,Como,Matchday 33
+2027-04-25,,Lecce,AC Milan,Matchday 33
+2027-04-25,,Napoli,Udinese,Matchday 33
+2027-04-25,,Parma,Atalanta,Matchday 33
+2027-04-25,,Venezia,Torino,Matchday 33
+2027-05-02,,Atalanta,Juventus,Matchday 34
+2027-05-02,,Bologna,Fiorentina,Matchday 34
+2027-05-02,,Como,Inter Milan,Matchday 34
+2027-05-02,,Lecce,Cagliari,Matchday 34
+2027-05-02,,AC Milan,Lazio,Matchday 34
+2027-05-02,,Monza,Venezia,Matchday 34
+2027-05-02,,Roma,Napoli,Matchday 34
+2027-05-02,,Sassuolo,Frosinone,Matchday 34
+2027-05-02,,Torino,Parma,Matchday 34
+2027-05-02,,Udinese,Genoa,Matchday 34
+2027-05-09,,Fiorentina,Roma,Matchday 35
+2027-05-09,,Frosinone,Atalanta,Matchday 35
+2027-05-09,,Genoa,Cagliari,Matchday 35
+2027-05-09,,Inter Milan,Lecce,Matchday 35
+2027-05-09,,Lazio,Sassuolo,Matchday 35
+2027-05-09,,Napoli,Monza,Matchday 35
+2027-05-09,,Parma,AC Milan,Matchday 35
+2027-05-09,,Torino,Bologna,Matchday 35
+2027-05-09,,Udinese,Juventus,Matchday 35
+2027-05-09,,Venezia,Como,Matchday 35
+2027-05-16,,Bologna,Frosinone,Matchday 36
+2027-05-16,,Cagliari,Torino,Matchday 36
+2027-05-16,,Como,Atalanta,Matchday 36
+2027-05-16,,Juventus,Inter Milan,Matchday 36
+2027-05-16,,Lazio,Udinese,Matchday 36
+2027-05-16,,Lecce,Fiorentina,Matchday 36
+2027-05-16,,AC Milan,Roma,Matchday 36
+2027-05-16,,Monza,Parma,Matchday 36
+2027-05-16,,Napoli,Genoa,Matchday 36
+2027-05-16,,Sassuolo,Venezia,Matchday 36
+2027-05-23,,Atalanta,Lecce,Matchday 37
+2027-05-23,,Fiorentina,Monza,Matchday 37
+2027-05-23,,Frosinone,Cagliari,Matchday 37
+2027-05-23,,Genoa,Bologna,Matchday 37
+2027-05-23,,Inter Milan,Lazio,Matchday 37
+2027-05-23,,Parma,Juventus,Matchday 37
+2027-05-23,,Roma,Como,Matchday 37
+2027-05-23,,Torino,Napoli,Matchday 37
+2027-05-23,,Udinese,Sassuolo,Matchday 37
+2027-05-23,,Venezia,AC Milan,Matchday 37
+2027-05-30,,Bologna,Parma,Matchday 38
+2027-05-30,,Cagliari,Roma,Matchday 38
+2027-05-30,,Como,Genoa,Matchday 38
+2027-05-30,,Juventus,Frosinone,Matchday 38
+2027-05-30,,Lazio,Fiorentina,Matchday 38
+2027-05-30,,Lecce,Venezia,Matchday 38
+2027-05-30,,AC Milan,Udinese,Matchday 38
+2027-05-30,,Monza,Torino,Matchday 38
+2027-05-30,,Napoli,Atalanta,Matchday 38
+2027-05-30,,Sassuolo,Inter Milan,Matchday 38
