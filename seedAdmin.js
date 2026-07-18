@@ -6,7 +6,7 @@ const createAdmin = async () => {
   try {
     await mongoose.connect(process.env.MONGODB_URI);
 
-    const existing = await User.findOne({ email: 'admin@tensports.com' });
+    const existing = await User.findOne({ email: 'admin@tavesports.com' });
     if (existing) {
       console.log('Admin already exists:', existing.email);
       return process.exit(0);
@@ -14,7 +14,7 @@ const createAdmin = async () => {
 
     const admin = await User.create({
       name: 'Admin',
-      email: 'admin@tensports.com',
+      email: 'admin@tavesports.com',
       password: 'Admin123', // plain text here — the pre-save hook hashes it
       role: 'admin'
     });

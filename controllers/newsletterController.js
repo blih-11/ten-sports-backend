@@ -13,7 +13,7 @@ exports.subscribe = async (req, res, next) => {
       return res.json({ success: true, message: 'Welcome back! You are now resubscribed.' });
     }
     await Subscriber.create({ email });
-    res.status(201).json({ success: true, message: 'Successfully subscribed to Ten Sports newsletter!' });
+    res.status(201).json({ success: true, message: 'Successfully subscribed to Tave Sports newsletter!' });
   } catch (error) { next(error); }
 };
 

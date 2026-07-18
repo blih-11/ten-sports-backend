@@ -1,4 +1,4 @@
-// Run with: node resetAdminPassword.js "admin@tensports.com" "NewPassword123"
+// Run with: node resetAdminPassword.js "admin@tavesports.com" "NewPassword123"
 // Finds the user, sets a new password, and saves — this goes through the
 // pre('save') hook in User.js so it gets hashed exactly the way login expects.
 

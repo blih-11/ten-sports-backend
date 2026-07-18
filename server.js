@@ -89,7 +89,7 @@ app.use('/api/logo-aliases', require('./routes/logoAliases'));
 
 // Health check
 app.get('/', (req, res) => {
-  res.json({ message: 'Ten Sports API is running', status: 'ok' });
+  res.json({ message: 'Tave Sports API is running', status: 'ok' });
 });
 
 // 404
@@ -114,5 +114,5 @@ cron.schedule('*/2 12-23 * * *', () => {
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(`Ten Sports API running on port ${PORT} in ${process.env.NODE_ENV} mode`);
+  console.log(`Tave Sports API running on port ${PORT} in ${process.env.NODE_ENV} mode`);
 });
