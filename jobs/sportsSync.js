@@ -165,8 +165,32 @@ async function syncFixturesGenericV1(league, client, sportLabel) {
 }
 
 // ── LIVE FIXTURES (football only, as before) ─────────────────────────────────
+// Status codes that mean "this match cannot still be live" -- anything else
+// (NS, 1H, HT, 2H, ET, P, etc) counts as still-relevant for polling.
+const FINISHED_OR_INACTIVE_STATUSES = ['FT', 'AET', 'PEN', 'PST', 'CANC', 'ABD', 'AWD', 'WO', 'SUSP', 'INT'];
+
+// Free-tier quota guard: polling /fixtures?live=all unconditionally every 2
+// minutes for 12 hours is 360 calls/day on its own, against a 100/day cap --
+// most of those ticks land on days (or hours) with nothing actually live.
+// Only spend the call when our own Fixture data shows a match that kicked
+// off in roughly the last 3 hours (long enough to cover extra time/delays)
+// and hasn't already been marked finished.
+async function hasLikelyLiveMatch() {
+  const now = new Date();
+  const threeHoursAgo = new Date(now.getTime() - 3 * 60 * 60 * 1000);
+  const soon = new Date(now.getTime() + 10 * 60 * 1000); // matches starting within 10 min are worth checking too
+
+  const candidate = await Fixture.exists({
+    date: { $gte: threeHoursAgo, $lte: soon },
+    'status.short': { $nin: FINISHED_OR_INACTIVE_STATUSES },
+  });
+  return !!candidate;
+}
+
 async function syncLiveFixtures() {
   try {
+    if (!(await hasLikelyLiveMatch())) return; // nothing plausibly live -- skip the call entirely
+
     const client = clientFor('football');
     const res = await client.get('/fixtures', { params: { live: 'all' } });
     const fixtures = res.data?.response || [];
